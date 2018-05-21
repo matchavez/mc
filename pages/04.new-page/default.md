@@ -9,9 +9,9 @@ title: 'New Page'
 
      Typography
 
-That's some text with a footnote.[^1]
+That's some text with a footnote. [^1]
 
-[^1]: And that's the footnote.
+
 
 
 
@@ -40,8 +40,14 @@ tests
 single
 line
 break
+7
+lines
 
 —
+
+[^1]: And that's the footnote.
+
+-
 
 Horizontal Rules
 
