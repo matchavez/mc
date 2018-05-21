@@ -2,7 +2,7 @@
 title: 'New Page'
 ---
 
-## This should be Markdown aware. Accordingly, I'm going to insert the GFM Test...
+## Does this update to GitHub when you sync?? Accordingly, I'm going to insert the GFM Test...
 
 
 ============
