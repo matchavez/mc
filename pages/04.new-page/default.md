@@ -9,6 +9,12 @@ title: 'New Page'
 
      Typography
 
+That's some text with a footnote.[^1]
+
+[^1]: And that's the footnote.
+
+
+
 Headings
 
 Headings from h1 through h6 are constructed with a # for each level:
