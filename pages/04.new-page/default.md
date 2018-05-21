@@ -15,6 +15,11 @@ That's some text with a footnote. [^1]
 
 
 
+Header 1            {#header1}
+========
+
+
+
 Headings
 
 Headings from h1 through h6 are constructed with a # for each level:
