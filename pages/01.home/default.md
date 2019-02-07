@@ -1,12 +1,10 @@
 ---
-title: ''
+title: 'MatChavez.com'
 media_order: ''
 body_classes: ''
 order_by: ''
 order_manual: ''
 ---
-
-# MatChavez.com
 
 It's not a blog.
 
