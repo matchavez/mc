@@ -1,0 +1,29 @@
+enabled: true
+folders:
+  - pages
+  - themes
+  - plugins
+  - config
+  - data
+sync:
+  on_save: true
+  on_delete: true
+  on_media: true
+  cron_enable: false
+  cron_at: '0 12,23 * * *'
+repository: 'https://github.com/matchavez/si'
+user: Mat
+password: gitsync-def50200218453b2ee6895089adc7cf398f5e50aac5623db00ca540eccc374b83c0a4d7d8e71768c335272f0f3549360722014b07fb463abd5c8adc2c4e98fed6c88fb004de11d4bb4cfe8fe56f3347b5b64b2b786fdd92f9edfce892ca5ed79044b190a39d3118845e6ee67
+webhook: /_git-sync-4ed23131040a
+webhook_enabled: '0'
+webhook_secret: 2e958ab60a0c0342aa8b4c96e83d84e95ee12a6b4aefae65
+branch: master
+remote:
+  name: origin
+  branch: master
+git:
+  author: gituser
+  name: GitSync
+  email: git-sync@trilby.media
+  bin: git
+logging: false
