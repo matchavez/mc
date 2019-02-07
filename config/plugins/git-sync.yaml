@@ -11,7 +11,7 @@ sync:
   on_media: true
   cron_enable: false
   cron_at: '0 12,23 * * *'
-repository: 'https://github.com/matchavez/mc'
+repository: 'https://github.com/matchavez/matchavez.github.io'
 user: matchavez
 webhook: /_git-sync-4ed23131040a
 webhook_enabled: '0'
@@ -26,4 +26,4 @@ git:
   email: git-sync@trilby.media
   bin: git
 logging: false
-password: gitsync-def50200068caf89e4747aca022c464f2b594b809d64a0ac17a31049f91bdfff515061fab8ae9f9903e1050c12e01b6ab0f48842e880be19d0fc7cb4b20458a75c500ac5bd6b015bb909288b1fe38f41b6a4cd4eee88c8b358d1ff1311d2aa439059
+password: gitsync-def50200a4889dee012dd19d83df0713315396c2ad3450d1598ed7615779bfe65004a1e6506e73aa7592311b6e3063fff5f54dce1a4e1323d37c53a079c75cdd8e1265ddfab3f5cea47836c7e3243d22440ec862590198bfee682e
