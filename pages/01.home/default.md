@@ -1,5 +1,5 @@
 ---
-title: 'MatChavez.com'
+title: MatChavez.com
 media_order: ''
 body_classes: ''
 order_by: ''
