@@ -1,0 +1,11 @@
+allowCSS: '0'
+allowJS: '0'
+colors:
+  background: '#f58787'
+layout:
+  configuration: centered
+  width: '768'
+style:
+  inlineNavbar: true
+  useFavicon: false
+  beautifyText: false
