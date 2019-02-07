@@ -11,7 +11,7 @@ sync:
   on_media: true
   cron_enable: false
   cron_at: '0 12,23 * * *'
-repository: 'https://github.com/matchavez/matchavez.github.io'
+repository: 'https://github.com/matchavez/mc'
 user: matchavez
 webhook: /_git-sync-4ed23131040a
 webhook_enabled: '0'
