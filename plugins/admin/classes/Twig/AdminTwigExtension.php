@@ -82,7 +82,7 @@ class AdminTwigExtension extends \Twig_Extension
         return $page_url;
     }
 
-    public function tuFilter()
+    public static function tuFilter()
     {
         $args = func_get_args();
         $numargs = count($args);
@@ -95,7 +95,7 @@ class AdminTwigExtension extends \Twig_Extension
             $args = array_merge($args, $subs);
         }
 
-        return $this->grav['admin']->translate($args, $lang);
+        return Grav::instance()['admin']->translate($args, $lang);
     }
 
     public function toYamlFilter($value, $inline = null)
@@ -112,7 +112,7 @@ class AdminTwigExtension extends \Twig_Extension
     public function adminNicetimeFilter($date, $long_strings = true)
     {
         if (empty($date)) {
-            return $this->grav['admin']->translate('NICETIME.NO_DATE_PROVIDED', null, true);
+            return $this->grav['admin']->translate('GRAV.NICETIME.NO_DATE_PROVIDED', null, true);
         }
 
         if ($long_strings) {
@@ -152,17 +152,17 @@ class AdminTwigExtension extends \Twig_Extension
 
         // check validity of date
         if (empty($unix_date)) {
-            return $this->grav['admin']->translate('NICETIME.BAD_DATE', null, true);
+            return $this->grav['admin']->translate('GRAV.NICETIME.BAD_DATE', null, true);
         }
 
         // is it future date or past date
         if ($now > $unix_date) {
             $difference = $now - $unix_date;
-            $tense      = $this->grav['admin']->translate('NICETIME.AGO', null, true);
+            $tense      = $this->grav['admin']->translate('GRAV.NICETIME.AGO', null, true);
 
         } else {
             $difference = $unix_date - $now;
-            $tense      = $this->grav['admin']->translate('NICETIME.FROM_NOW', null, true);
+            $tense      = $this->grav['admin']->translate('GRAV.NICETIME.FROM_NOW', null, true);
         }
 
         $len = count($lengths) - 1;
@@ -184,7 +184,7 @@ class AdminTwigExtension extends \Twig_Extension
             }
         }
 
-        $periods[$j] = $this->grav['admin']->translate($periods[$j], null, true);
+        $periods[$j] = $this->grav['admin']->translate('GRAV.'.$periods[$j], null, true);
 
         return "{$difference} {$periods[$j]} {$tense}";
     }

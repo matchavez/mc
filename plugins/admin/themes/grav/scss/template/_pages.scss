@@ -197,12 +197,9 @@
         @include clearfix;
         clear: both;
         padding-top:5px;
-
-        .button {
-            @include button-color(#aaa);
-        }
     }
 
+    .selectize-control.single.plugin-remove_button .selectize-input,
     .selectize-control.multi .selectize-input {
 
         padding: ($leading-margin / 4) ($leading-margin / 4);

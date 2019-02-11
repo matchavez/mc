@@ -1,3 +1,38 @@
+# v3.0.0-rc.2
+## 02/07/2019
+
+1. [](#new)
+  * Added a new `clear-queue-failures` CLI command to flush out failed sends
+
+# v3.0.0-rc.1
+## 01/30/2019
+
+1. [](#new)
+  * Release Candidate
+
+# v3.0.0-beta.2
+## 01/25/2019
+
+1. [](#new)
+  * Added new `template:` to choose twig template option for email form processing
+  * Moved `buildMessage()` and `parseAddressValue()` to Email object and made public
+  * Refactored the `EmailUtils::sendEmail()` to take an array of params or the old param list
+1. [](#improved)
+  * Added support for `environment` option to `flushqueue` CLI command  
+  
+# v3.0.0-beta.1
+## 12/14/2018
+
+1. [](#new)
+    * Switched to SwiftMailer v.6.1.3 (requires PHP7/Grav 1.6)
+    * Added support for Email Queue with Scheduler support
+1. [](#improved)
+    * SwiftMailer 6.x compatibility fixes  
+    * Updated various translations 
+1. [](#bugfix) 
+    * Fixed mailtrap hostname in README.md
+    * Disable autocomplete on SMTP `user` and `password` fields
+    
 # v2.7.2
 ## 01/25/2019
 
@@ -8,7 +43,7 @@
     * Updated RU language [#100](https://github.com/getgrav/grav-plugin-email/pull/100)
     * Updated to SwiftMailer v5.4.12
 1. [](#bugfix)
-    * Fixed `mailtrap` hostname
+    * Fixed `mailtrap` hostname    
 
 # v2.7.1
 ## 12/05/2017
@@ -19,7 +54,7 @@
     * Added examples of setting up Email plugin with various SMTP providers
     * Updated RU language [#60](https://github.com/getgrav/grav-plugin-email/pull/60)
     * Updated to SwiftMailer v5.4.8
-    
+
 # v2.7.0
 ## 10/26/2017
 

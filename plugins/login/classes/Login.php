@@ -11,12 +11,12 @@ use Birke\Rememberme\Cookie;
 use Grav\Common\Config\Config;
 use Grav\Common\Data\Data;
 use Grav\Common\Grav;
-use Grav\Common\File\CompiledYamlFile;
 use Grav\Common\Language\Language;
 use Grav\Common\Page\Page;
 use Grav\Common\Session;
 use Grav\Common\User\User;
 use Grav\Common\Uri;
+use Grav\Common\Utils;
 use Grav\Plugin\Email\Utils as EmailUtils;
 use Grav\Plugin\Login\Events\UserLoginEvent;
 use Grav\Plugin\Login\RememberMe\RememberMe;
@@ -170,6 +170,7 @@ class Login
      * @param array $options
      *
      * @return bool
+     * @deprecated Uses the Controller::taskLogin() event
      */
     public function authenticate($credentials, $options = ['remember_me' => true])
     {
@@ -206,16 +207,17 @@ class Login
      * Create a new user file
      *
      * @param array $data
+     * @param array $files
      *
      * @return User
      */
-    public function register($data)
+    public function register(array $data, array $files = [])
     {
         if (!isset($data['groups'])) {
             //Add new user ACL settings
             $groups = (array) $this->config->get('plugins.login.user_registration.groups', []);
 
-            if (count($groups) > 0) {
+            if (\count($groups) > 0) {
                 $data['groups'] = $groups;
             }
         }
@@ -223,19 +225,20 @@ class Login
         if (!isset($data['access'])) {
             $access = (array) $this->config->get('plugins.login.user_registration.access.site', []);
 
-            if (count($access) > 0) {
+            if (\count($access) > 0) {
                 $data['access']['site'] = $access;
             }
         }
 
         $username = $this->validateField('username', $data['username']);
 
-        $file = CompiledYamlFile::instance($this->grav['locator']->findResource('account://' . mb_strtolower($username) . YAML_EXT,
-            true, true));
-
         // Create user object and save it
-        $user = new User($data);
-        $user->file($file);
+        $user = User::load($username);
+        if ($user->exists()) {
+            throw new \RuntimeException('User ' . $username . ' cannot be registered: user already exists!');
+        }
+
+        $user->update($data, $files);
         $user->save();
 
         return $user;
@@ -275,28 +278,28 @@ class Login
                 break;
 
             case 'password2':
-                if (!is_string($value) || strcmp($value, $extra)) {
+                if (!\is_string($value) || strcmp($value, $extra)) {
                     throw new \RuntimeException('Passwords did not match.');
                 }
 
                 break;
 
             case 'email':
-                if (!is_string($value) || !filter_var($value, FILTER_VALIDATE_EMAIL)) {
+                if (!\is_string($value) || !filter_var($value, FILTER_VALIDATE_EMAIL)) {
                     throw new \RuntimeException('Not a valid email address');
                 }
 
                 break;
 
             case 'permissions':
-                if (!is_string($value) || !in_array($value, ['a', 's', 'b'])) {
+                if (!\is_string($value) || !\in_array($value, ['a', 's', 'b'], true)) {
                     throw new \RuntimeException('Permissions ' . $value . ' are invalid.');
                 }
 
                 break;
 
             case 'fullname':
-                if (!is_string($value) || trim($value) === '') {
+                if (!\is_string($value) || trim($value) === '') {
                     throw new \RuntimeException('Fullname cannot be empty');
                 }
 
@@ -453,14 +456,14 @@ class Login
             $timeout = $config->get('plugins.login.rememberme.timeout');
 
             // Setup storage for RememberMe cookies
-            $storage = new TokenStorage('user://data/rememberme', $timeout);
+            $storage = new TokenStorage('user-data://rememberme', $timeout);
             $this->rememberMe = new RememberMe($storage);
             $this->rememberMe->setCookieName($cookieName);
             $this->rememberMe->setExpireTime($timeout);
 
             // Hardening cookies with user-agent and random salt or
             // fallback to use system based cache key
-            $server_agent = isset($_SERVER['HTTP_USER_AGENT']) ? $_SERVER['HTTP_USER_AGENT'] : 'unknown';
+            $server_agent = $_SERVER['HTTP_USER_AGENT'] ?? 'unknown';
             $data = $server_agent . $config->get('security.salt', $this->grav['cache']->getKey());
             $this->rememberMe->setSalt(hash('sha512', $data));
 
@@ -529,15 +532,13 @@ class Login
         $header = $page->header();
         $rules = isset($header->access) ? (array)$header->access : [];
 
-        if ($config !== null && $config->get('parent_acl')) {
+        if (!$rules && $config !== null && $config->get('parent_acl')) {
             // If page has no ACL rules, use its parent's rules
-            if (!$rules) {
-                $parent = $page->parent();
-                while (!$rules and $parent) {
-                    $header = $parent->header();
-                    $rules = isset($header->access) ? (array)$header->access : [];
-                    $parent = $parent->parent();
-                }
+            $parent = $page->parent();
+            while (!$rules and $parent) {
+                $header = $parent->header();
+                $rules = isset($header->access) ? (array)$header->access : [];
+                $parent = $parent->parent();
             }
         }
 
@@ -552,16 +553,14 @@ class Login
 
         // Continue to the page if user is authorized to access the page.
         foreach ($rules as $rule => $value) {
-            if (is_array($value)) {
+            if (\is_array($value)) {
                 foreach ($value as $nested_rule => $nested_value) {
-                    if ($user->authorize($rule . '.' . $nested_rule) == $nested_value) {
+                    if ($user->authorize($rule . '.' . $nested_rule) === Utils::isPositive($nested_value)) {
                         return true;
                     }
                 }
-            } else {
-                if ($user->authorize($rule) == $value) {
-                    return true;
-                }
+            } elseif ($user->authorize($rule) === Utils::isPositive($value)) {
+                return true;
             }
         }
 
@@ -592,7 +591,7 @@ class Login
                 }
             }
 
-            if (count($actual_resets) >= $count) {
+            if (\count($actual_resets) >= $count) {
                 return true;
             }
             $actual_resets[] = time(); // current reset
@@ -633,9 +632,7 @@ class Login
 
     public function getProviderLoginTemplates()
     {
-        $templates =  $this->provider_login_templates;
-
-        return $templates;
+        return $this->provider_login_templates;
     }
 
 }

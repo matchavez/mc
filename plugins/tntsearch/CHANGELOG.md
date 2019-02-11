@@ -1,3 +1,32 @@
+# v3.0.0-beta.3
+## 12/14/2018
+
+1. [](#improved)
+    * Added a new `onFlexObjecSave()` event
+    * Simplified indexing logic
+    * Code cleanup
+1. [](#bugfix)
+    * Fixed issues when updating search index    
+
+# v3.0.0-beta.2
+## 11/12/2018
+
+1. [](#improved)
+    * Minor CSS improvements for search field
+1. [](#bugfix)
+    * Set the db index file as a property of `GravTNTSearch` to allow for better overriding
+    * Put better type checking around `onTNTSearchIndex()` example that indexes `page.header.author`    
+
+# v3.0.0-beta.1
+## 10/28/2018
+
+1. [](#new)
+    * Added new Grav Scheduler integration
+    * Added new Multi-Language Support
+1. [](#improved)
+    * Implemented a unified indexer process that always uses the CLI command for consistency
+    * Use Grav YAML handler
+
 # v2.0.4
 ## 09/21/2018
 

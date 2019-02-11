@@ -1,3 +1,25 @@
+# 3.0.0-rc.2
+## 02/07/2019
+
+1. [](#new)
+    * Added 2-Factor Authentication support for front-end (2FA)
+
+# 3.0.0-rc.1
+## 01/30/2019
+
+1. [](#new)
+    * New CLI command to `lookup` users 
+    * Check requirements to use new `lookup` command
+
+# 3.0.0-beta.1
+## 01/25/2019
+
+1. [](#new)
+    * Requires Grav `1.6.0-beta.8`, Form `3.0.0-beta.5`
+    * Added support for the new `Flex User` object
+1. [](#improved)
+    * Updated code to PHP 7.1 features
+    
 # v2.8.3
 ## 01/25/2018
   
@@ -7,7 +29,7 @@
   * IP pseudonymization for rate limiter [#196](https://github.com/getgrav/grav-plugin-login/pull/196)
   * Made some error lang strings more generic to relfect ability to change username/password requirements
 1. [](#bugfix)
-  * Fix redirectLangSafe in login controller [#192](https://github.com/getgrav/grav-plugin-login/pull/192)  
+  * Fix redirectLangSafe in login controller [#192](https://github.com/getgrav/grav-plugin-login/pull/192)      
 
 # v2.8.2
 ## 12/14/2018

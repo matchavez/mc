@@ -2,8 +2,8 @@
 namespace Grav\Plugin\TNTSearch;
 
 use Grav\Common\Grav;
+use Grav\Common\Yaml;
 use Grav\Common\Page\Page;
-use Symfony\Component\Yaml\Yaml;
 
 class GravConnector extends \PDO
 {
@@ -61,7 +61,8 @@ class GravConnector extends \PDO
             try {
                 $fields = $gtnt->indexPageData($page);
                 $results[] = (array) $fields;
-                echo("Added   $counter $route\n");
+                $display_route = isset($fields->display_route) ? $fields->display_route : $route;
+                echo("Added   $counter $display_route\n");
             } catch (\Exception $e) {
                 echo("Skipped $counter $route - {$e->getMessage()}\n");
                 continue;

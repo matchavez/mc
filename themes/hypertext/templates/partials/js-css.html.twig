@@ -3,10 +3,10 @@
 {% set style = config.themes.hypertext.style %}
 {% set beautify = style.beautifyText %}
 
-{% block stylehseets %}
+{% block stylesheets %}
 <style>
 body {
-{{ layout.width ? "max-width: #{layout.width}px;" : ""}}
+{{ ( layout.width and layout.width != "default" ) ? "max-width: #{layout.width}px;" : ""}}
 {{ layout.configuration ? "margin: 40px auto;" : ""}}
 {{ colors.background ? "background: #{colors.background};" : ""}}
 {{ colors.text ? "color: #{colors.text};" : "" }}
@@ -22,11 +22,15 @@ padding:0 10px;
 img { max-width: 80%; }
 h1, h2, h3 { font-family: sans-serif; }
 p { line-height:1.5; }
-.red { background: #F2DEDE }
-.yellow { background: #FCF8E3 }
-.green { background: #DFF0D8 }
-.blue { background: #D9EDF7 }
-.callout { background: #F5F5F5 }
+table { width: 95%; margin: 0 auto; }
+.pagination { text-align:center; }
+.red { background: #F2DEDE; }
+.yellow { background: #FCF8E3; }
+.green { background: #DFF0D8; }
+.blue { background: #D9EDF7; }
+.callout { background: #F5F5F5; }
+
+.title a { font-weight: bold; }
 {% endif %}
 
 {{ colors.link ? "a { color: #{colors.link}; }" : "" }}
