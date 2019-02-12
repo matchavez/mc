@@ -3,5 +3,6 @@ top_level_version: true
 show_all_pages: false
 home_url: 'http://matchavez.com'
 github:
-  position: bottom
+  position: 'off'
   tree: 'https://github.com/matchavez/mc'
+  commits: 'https://github.com/getgrav/grav-skeleton-rtfm-site/commits/develop/'
