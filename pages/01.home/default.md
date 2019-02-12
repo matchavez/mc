@@ -1,6 +1,8 @@
 ---
-title: MatChavez.com
+title: Welcome
 ---
+
+![](IMG_9324.jpg)
 
 It's not a blog.
 
