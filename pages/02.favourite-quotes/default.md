@@ -137,11 +137,11 @@ title: 'Favourite Quotes'
 
 > “Fear is a lack of data.”
 
- 
+ - _Unknown_
 
 > “Honesty is a very expensive gift. Do not expect it from cheap people.”
 
- 
+ - _Unknown_
 
 > “Success is a lousy teacher. It seduces smart people into thinking they can’t lose.”
 
