@@ -1,5 +1,9 @@
 ---
-title: Welcome
+title: ''
+media_order: ''
+body_classes: ''
+order_by: ''
+order_manual: ''
 ---
 
 ![](IMG_9324.jpg)
