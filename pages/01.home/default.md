@@ -1,9 +1,5 @@
 ---
 title: MatChavez.com
-media_order: ''
-body_classes: ''
-order_by: ''
-order_manual: ''
 ---
 
 It's not a blog.
