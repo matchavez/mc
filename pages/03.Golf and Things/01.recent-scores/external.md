@@ -1,5 +1,7 @@
 ---
 title: 'Recent Scores'
+external_url: 'http://www.golf.co.nz/MyGolf/Scores.aspx?memberid=687851&Code=1447405845'
+media_order: ''
 ---
 
 <div class="class">
