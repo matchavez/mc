@@ -4,14 +4,6 @@ title: Equipment
 
 ## Equipment currently in use:
 
-Primary Clubs:
-
-| Club |   |   |   |   |
-|---|---|---|---|---|
-| Driver |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-
 | Club Casual Name | Club Model       | Club Shaft           | Shaft Detail           | Current Loft | Swing Weight | Length |
 | ---------------- | ---------------- | -------------------- | ---------------------- | ------------ | ------------ | ------ |
 | Driver           | G30 LS Tec       | Ping Tour            | 65 S                   | 10º          | D4           | 45.25" |
