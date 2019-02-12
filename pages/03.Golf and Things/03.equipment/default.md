@@ -28,3 +28,4 @@ title: Equipment
 | Club                        | Club Model  | Club Shaft                | Shaft Detail                     | Current Loft  | Swing Weight  | Length |
 | ---------------------- | -------------- | ----------------------- | --------------------------- | --------------- | ---------------- | -------- |
 | 4-Iron                      | i200             | Nippon Modus3        | 105 S, Hard-stepped     | 22.5º              | D3                   | 39"       |
+| Hybrid (23)              | Anser           | TFC189                     | Stiff                                | 23º                 | D1                   | 39.75"  |
