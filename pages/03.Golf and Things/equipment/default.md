@@ -6,9 +6,13 @@ title: Equipment
 
 #### 14 in play normally
 
-| Club                        | Club Model       | Club Shaft           | Shaft Detail           | Current Loft | Swing Weight | Length |
-| ----------------         | ----------------   | ------------------- | -------------------- | --------------- | --------------- | -------- |
-| Driver                      | G400 LST         | Mitsubishi TiNi    | 60X                       | 9.4º                | D4                 | 45.25"  |
+| Club                        | Club Model       | Club Shaft           | Shaft Detail          | Current Loft  | Swing Weight  | Length |
+| ---------------------- | ----------------- | ------------------- | -------------------- | --------------- | ---------------- | -------- |
+| Driver                      | G400 LST         | Mitsubishi TiNi    | 60X                       | 9.4º                | D4                  | 45.25"  |
+
+
+
+#### On the bench
 
 | Club                        | Club Model       | Club Shaft           | Shaft Detail           | Current Loft | Swing Weight | Length |
 | ----------------         | ----------------   | ------------------- | -------------------- | --------------- | --------------- | -------- |
