@@ -20,7 +20,7 @@ home:
   alias: /home
   hide_in_urls: true
 pages:
-  theme: hypertext
+  theme: learn2
   order:
     by: default
     dir: asc
