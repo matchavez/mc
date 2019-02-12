@@ -4,10 +4,10 @@ title: Equipment
 
 ## Equipment:
 
-#### 14 in play normally
 
 | Club                        | Club Model  | Club Shaft                | Shaft Detail                     | Current Loft  | Swing Weight  | Length |
 | ---------------------- | -------------- | ----------------------- | --------------------------- | --------------- | ---------------- | -------- |
+| 14 in play |
 | Driver                      | G400 LST     | Mitsubishi TiNi         | 60X                                 | 9.4º                | D4                  | 45.25"  |
 | Fairway (5)              | G                  | Ping Tour                  | 80X                                 | 16.5º              | D3                  | 42.5"    |
 | Hybrid (20)              | Anser           | TFC189                     | Stiff                                 | 20º                 | D1                  | 40.25"  |
@@ -22,10 +22,6 @@ title: Equipment
 | Sand Wedge           | Glide 2        | Nippon Modus3        | 105 S, Hard-stepped 2x | 54º                 | D6                  | 36"       |
 | Lob Wedge             | Glide 2        | Nippon Modus3        | 105 S, Hard-stepped 2x | 58º                 | D4                  | 35.25"  |
 | Putter                      | Kinloch C    | Ping Adjustable        | Centre-shafted                | 4º                   | n/a                 | 34.5"    |
-
-#### On the bench
-
-| Club                        | Club Model  | Club Shaft                | Shaft Detail                     | Current Loft  | Swing Weight  | Length |
-| ---------------------- | -------------- | ----------------------- | --------------------------- | --------------- | ---------------- | -------- |
+| On the bench |
 | 4-Iron                      | i200             | Nippon Modus3        | 105 S, Hard-stepped     | 22.5º              | D3                   | 39"       |
 | Hybrid (23)              | Anser           | TFC189                     | Stiff                                | 23º                 | D1                   | 39.75"  |
