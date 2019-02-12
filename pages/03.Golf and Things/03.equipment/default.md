@@ -25,3 +25,13 @@ title: Equipment
 | **_On the bench_** |
 | 4-Iron                      | i200             | Nippon Modus3        | 105 S, Hard-stepped     | 22.5º              | D3                   | 39"       |
 | Hybrid (23)              | Anser           | TFC189                     | Stiff                                | 23º                 | D1                   | 39.75"  |
+
+### Other items of note:
+
+Grips - generally Golf Pride CP2 Pro Midsize, label down.
+
+Bag - Sun Mountain 4.5LS
+
+Push cart - Sun Mountain Pathfinder 4
+
+Laser - Bushnell Pro X2
