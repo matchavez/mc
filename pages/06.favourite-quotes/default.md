@@ -15,7 +15,7 @@ title: 'Favourite Quotes'
 
 > “The plural of anecdote is not data.”
 
- 
+- _Unknown_
 
 > “People demand freedom of speech as a compensation for the freedom of thought which they seldom use.”
 
@@ -31,7 +31,7 @@ title: 'Favourite Quotes'
 
 > “Today’s the youngest you’ll ever be, so live like it!”
 
- 
+ - _Unknown_
 
 > “When all is said and done, success without happiness is the worst kind of failure.”
 
@@ -163,11 +163,11 @@ title: 'Favourite Quotes'
 
 > “Be faithful to the nightmare of your choosing.”
 
- 
+ - _Unknown_
 
 > “Luck is probability taken personally.”
 
- 
+ - _Unknown_
 
 > “Love all, trust a few, do wrong to none.”
 
@@ -195,7 +195,7 @@ title: 'Favourite Quotes'
 
 > “You manage what you measure.”
 
- 
+ - _Unknown_
 
 > “It is the mark of an educated mind to be able to entertain a thought without accepting it.”
 
@@ -223,11 +223,11 @@ title: 'Favourite Quotes'
 
 > “Just as places are sensed, senses are placed.”
 
- 
+ - _Unknown_
 
 > “The odds do not determine the outcome.”
 
- 
+ - _Unknown_
 
 > “For most amateurs the best wood in the bag is the pencil.”
 
@@ -299,11 +299,9 @@ title: 'Favourite Quotes'
 
 – Paul Rand
 
- 
-
 > “Success is in the sincerity of the pursuit.”
 
- 
+ - _Unknown_
 
 > “Facts are stubborn things…”
 
