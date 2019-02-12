@@ -2,10 +2,6 @@
 title: 'Favourite Quotes'
 ---
 
-# Favorite Quotes 
-
-
-
 > “Micromanaging is always an indicator of bad decisions made months earlier.”
 
 -Michael Lopp
