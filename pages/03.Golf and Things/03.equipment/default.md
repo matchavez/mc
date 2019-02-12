@@ -26,7 +26,7 @@ title: Equipment
 | 4-Iron                      | i200             | Nippon Modus3        | 105 S, Hard-stepped     | 22.5º              | D3                   | 39"       |
 | Hybrid (23)              | Anser           | TFC189                     | Stiff                                | 23º                 | D1                   | 39.75"  |
 
-### Other items of note:
+#### Other items of note:
 
 Grips - generally Golf Pride CP2 Pro Midsize, label down.
 
