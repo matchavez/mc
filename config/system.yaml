@@ -23,7 +23,7 @@ home:
   alias: /home
   hide_in_urls: true
 pages:
-  theme: quark
+  theme: learn2-git-sync
   order:
     by: default
     dir: asc
