@@ -23,7 +23,7 @@ home:
   alias: /home
   hide_in_urls: true
 pages:
-  theme: hypertext
+  theme: bones
   order:
     by: default
     dir: asc

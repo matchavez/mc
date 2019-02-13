@@ -8,7 +8,7 @@ fontawesome:
 google_prettify:
   enabled: true
 dropdown:
-  enabled: true
+  enabled: false
 mobilemenu_breakpoint: large
 mobilemenu_position: left
 foundation_offcanvas_js:
