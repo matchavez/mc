@@ -23,7 +23,7 @@ home:
   alias: /home
   hide_in_urls: true
 pages:
-  theme: antimatter
+  theme: g5_helium
   order:
     by: default
     dir: asc
