@@ -4,12 +4,12 @@ grid-size: grid-lg
 header-fixed: true
 header-animated: true
 header-dark: true
-header-transparent: false
-sticky-footer: true
+header-transparent: true
+sticky-footer: false
 blog-page: /blog
 spectre:
-  exp: false
-  icons: false
+  exp: true
+  icons: true
 custom_logo:
   user/themes/quark/images/logo/Unknown.png:
     name: Unknown.png
