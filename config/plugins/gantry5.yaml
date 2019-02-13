@@ -1,7 +1,8 @@
-enabled: true
+enabled: false
 production: true
 use_media_folder: false
 offline: false
+offline_message: null
 asset_timestamps: true
 asset_timestamps_period: !!float 7
 debug: false
