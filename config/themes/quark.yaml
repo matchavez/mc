@@ -10,15 +10,3 @@ blog-page: /blog
 spectre:
   exp: true
   icons: true
-custom_logo:
-  user/themes/quark/images/logo/Unknown.png:
-    name: Unknown.png
-    type: image/png
-    size: 4399
-    path: user/themes/quark/images/logo/Unknown.png
-custom_logo_mobile:
-  user/themes/quark/images/logo/Unknown.png:
-    name: Unknown.png
-    type: image/png
-    size: 4399
-    path: user/themes/quark/images/logo/Unknown.png
