@@ -1,8 +1,8 @@
 enabled: true
-top_level_version: true
+top_level_version: false
 show_all_pages: false
 home_url: 'http://matchavez.com'
 github:
-  position: 'off'
+  position: bottom
   tree: 'https://github.com/matchavez/mc'
   commits: 'https://github.com/getgrav/grav-skeleton-rtfm-site/commits/develop/'
