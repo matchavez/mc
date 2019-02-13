@@ -4,7 +4,7 @@ home_url: 'http://matchavez.com'
 github:
   position: 'off'
 default_taxonomy_category: docs
-style: default
+style: longyearbyen
 streams:
   schemes:
     theme:
