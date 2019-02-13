@@ -4,7 +4,7 @@ home_url: 'http://matchavez.com'
 github:
   position: 'off'
 default_taxonomy_category: docs
-style: hoth
+style: default
 streams:
   schemes:
     theme:
