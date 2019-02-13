@@ -1,7 +1,8 @@
 enabled: true
 top_level_version: false
+home_url: 'http://matchavez.com'
 github:
-  position: top
+  position: 'off'
 default_taxonomy_category: docs
 style: longyearbyen
 streams:
