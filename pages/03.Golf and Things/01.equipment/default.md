@@ -18,10 +18,10 @@ title: Equipment
 | 8-iron                      | i200             | Nippon Modus3        | 105 S, Hard-stepped      | 37º                 | D5                  | 37"       |
 | 9-iron                      | i200             | Nippon Modus3        | 105 S, Hard-stepped      | 41º                 | D5                  | 36.5"    |
 | Pitching Wedge      | i200             | Nippon Modus3        | 105 S, Hard-stepped      | 45º                 | D6                  | 36"       |
-| Utility Wedge          | i200             | Nippon Modus3        | 105 S, Hard-stepped      | 50º                 | D6                  | 36"       |
-| Sand Wedge           | Glide 2        | Nippon Modus3        | 105 S, Hard-stepped 2x | 54º                 | D6                  | 36"       |
-| Lob Wedge             | Glide 2        | Nippon Modus3        | 105 S, Hard-stepped 2x | 58º                 | D4                  | 35.25"  |
-| Putter                      | Kinloch C    | Ping Adjustable        | Centre-shafted                | 4º                   | n/a                 | 34.5"    |
+| _Utility Wedge_          | i200             | Nippon Modus3        | 105 S, Hard-stepped      | 50º                 | D6                  | 36"       |
+| _Sand Wedge_           | Glide 2        | Nippon Modus3        | 105 S, Hard-stepped 2x | 54º                 | D6                  | 36"       |
+| _Lob Wedge_             | Glide 2        | Nippon Modus3        | 105 S, Hard-stepped 2x | 58º                 | D4                  | 35.25"  |
+| _Putter_                      | Kinloch C    | Ping Adjustable        | Centre-shafted                | 4º                   | n/a                 | 34.5"    |
 | **_On the bench_** |
 | 4-Iron                      | i200             | Nippon Modus3        | 105 S, Hard-stepped     | 22.5º              | D3                   | 39"       |
 | Hybrid (23)              | Anser           | TFC189                     | Stiff                                | 23º                 | D1                   | 39.75"  |
