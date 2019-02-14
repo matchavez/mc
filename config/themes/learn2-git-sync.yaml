@@ -3,7 +3,7 @@ top_level_version: false
 home_url: 'http://matchavez.com'
 github:
   position: 'off'
-  icon: tree
+  icon: .fa-star-o
 default_taxonomy_category: docs
 style: longyearbyen
 streams:
