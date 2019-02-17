@@ -8,8 +8,8 @@ title: Equipment
 | Club                        | Club Model  | Club Shaft                | Shaft Detail                     | Current Loft  | Swing Weight  | Length |
 | ---------------------- | -------------- | ----------------------- | --------------------------- | --------------- | ---------------- | -------- |
 | **_14 in play_** |
-| Driver                      | G400 LST     | Mitsubishi TiNi         | 60X                                 | 9.4º                | D4                  | 45.25"  |
-| Fairway (5)              | G                  | Ping Tour                  | 80X                                 | 16.5º              | D3                  | 42.5"    |
+| Driver                      | G400 LST     | Mitsubishi TiNi         | 60X                                 | 10º                 | D4                  | 45.25"  |
+| Fairway (5)              | G                  | Ping Tour                  | 80X                                 | 16.9º              | D3                  | 42.5"    |
 | Hybrid (20)              | Anser           | TFC189                     | Stiff                                 | 20º                 | D1                  | 40.25"  |
 | 4-Iron                      | i500             | Nippon Modus3        | 105 S                              | 21º                 | D3                  | 38.875"|
 | 5-iron                      | i200             | Nippon Modus3        | 105 S, Hard-stepped      | 26º                 | D3                  | 38.5"    |
