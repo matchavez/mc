@@ -18,3 +18,5 @@ a#logo h5 {
   background: #000000;
 }
 ```
+
+- Code highlighting plug-in turned on, using Solarized Dark.
