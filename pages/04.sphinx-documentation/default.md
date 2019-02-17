@@ -2,6 +2,8 @@
 title: 'Sphinx Documentation'
 ---
 
+! This content may be somewhat out of date.
+
 # Preamble & Objective:
 
 Given the many options for putting word-to-page, documentation is often a difficult by-product of complex projects. In software, it is often the most cast-off segment of work that has some of the most time-constrained effort. The traditional cycle of define, create, test, then document is never optimal. Add on top the need to iterate using tools that are designed for the static document, particulary the "word processor", and you end up in a cycle that keeps documentation away from those creating and playing a game of "telephone" with the Technical Writing team.
