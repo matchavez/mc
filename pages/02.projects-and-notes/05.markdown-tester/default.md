@@ -134,6 +134,16 @@ Use “code fences” \`\`\` to block in multiple lines of code.
 <input id="go" type="button" value="Open new window" onclick="window.open('/javascript/examples/sample_popup.cfm','popUpWindow','height=500, width=400, left=100, top=100, resizable=yes, scrollbars=yes, toolbar=yes, menubar=no, location=no, directories=no, status=yes');">
 ```
 
+```css
+a#logo h1 {
+  color: #ff0000;
+}
+
+#header {
+  background: #000000;
+}
+```
+
 
 ## Links
 
