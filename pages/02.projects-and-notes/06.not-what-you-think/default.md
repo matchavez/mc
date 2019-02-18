@@ -20,3 +20,9 @@ The reason everything gets messy, and why these two words have officially become
 The definition of these words is often used interchangably, but they are considered different for specific reasons. An interval is casually recognised as the "time between things". That's actually the duration. Duration is how long any activity lasts. Why does this matter? Think of it this way... the duration of a full moon is only a few days, but the interval is 29 days.
 
 ## UTC and GMT
+
+What might be seen as interchangeable here definitely is not. Coordinated Universal Time is a measurement that never varies. UTC is always UTC. There is no Daylight Saving or British Summertime.
+
+GMT, or Greenwich Mean Time, is a time zone. London sits within this time zone. It is a poorly named time zone because at one time in history, GMT was the time which everything was based simply because of where it existed.
+
+Today, interchanging these two can be disaster when trying to describe time. UTC is a measured time, and GMT is a time zone.
