@@ -58,7 +58,7 @@ Now that the server exists, you'll want to start adding the necessities. This is
 
 7. - Open the Mac Terminal. Type in the following:
 
-```text
+```sh
 open ~/.ssh
 ```
 
@@ -66,7 +66,7 @@ This opens what is normally a hidden folder on a Mac. The .pem file should be pl
 
 Open TextEdit, or any text editor. Create a file called “config”. This should not have a file extension, so config.txt, config.rtf, etc., is incorrect. Just “config”. In that file, create four lines:
 
-```text
+```sh
 Host FriendlyLinuxNameYouMade
 
 User ec2-user
@@ -79,7 +79,7 @@ HostName your.ip.address.here
 
 So an old version of mine looked like:
 
-```text
+```sh
 Host Penguin
 
 User ec2-user
@@ -124,7 +124,7 @@ You have successfully connected.
 
 We’re now L but not AMP. We’re missing a web server, and the web server of choice for Linux is Apache. Many builds of linux, and even Mac OS X comes with Apache baked in. But not Amazon - this is really, really bare bones. So let’s install Apache. This is easy; just copy this code in exactly:
 
-```text
+```sh
 sudo su
 
 yum install httpd
@@ -139,14 +139,14 @@ Fancy! Now what?
 
 Check to see that the web server is in fact running.
 
-```text
+```sh
 service httpd status
 
 ```
 
 Not running yet? Ya, you need to explicitly start it.
 
-```text
+```sh
 service httpd start
 
 ```
@@ -161,7 +161,7 @@ You have a static server at this point. Time for “M”, or MySQL. This of cour
 
 In terminal, add the following lines:
 
-```text
+```sh
 yum install mysql mysql-server
 
 service mysqld start
@@ -172,7 +172,7 @@ mysql_secure_installation
 
 If you want to use Navicat:
 
-```text
+```sh
 mysql -u root -p
 mysql> GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' IDENTIFIED BY 'bkpit97' WITH GRANT OPTION;
 mysql> FLUSH PRIVILEGES;
@@ -206,7 +206,7 @@ PLEASE REMEMBER TO SET A PASSWORD FOR THE MySQL root USER !
 
 To do so, start the server, then issue the following commands:
 
-```text
+```sh
 /usr/bin/mysqladmin -u root password 'new-password'
 /usr/bin/mysqladmin -u root -h ip-10-228-23-35 password 'new-password'
 
@@ -214,7 +214,7 @@ To do so, start the server, then issue the following commands:
 
 Alternatively you can run:
 
-```text
+```sh
 /usr/bin/mysql_secure_installation
 ```
 
@@ -228,13 +228,13 @@ See the manual for more instructions.
 
 You can start the MySQL daemon with:
 
-```text
+```sh
 cd /usr ; /usr/bin/mysqld_safe &
 ```
 
 You can test the MySQL daemon with [mysql-test-run.pl](http://mysql-test-run.pl)
 
-```text
+```sh
 cd /usr/mysql-test ; perl mysql-test-run.pl
 ```
 
@@ -242,7 +242,7 @@ Please report any problems with the /usr/bin/mysqlbug script!
 
 11. - The pre-processor
 
-```text
+```sh
 yum install php php-mysql
 
 ```
@@ -255,7 +255,7 @@ A needed addition is some additional library files for image processing in PHP:
 
 ------
 
-```text
+```sh
 yum install php-gd
 
 
@@ -270,7 +270,7 @@ yum install php-mbstring
 
 New information… in an attempt to resolve mbstring problems, I did:
 
-```text
+```sh
 yum install php55-gd
 ```
 
@@ -284,7 +284,7 @@ At this point, the web server still isn’t terribly useful, since it’s just s
 
 \*Wordpress - finally, the whole point, right?
 
-```text
+```sh
 echo -e "[Webmin]\nname=Webmin Distribution Neutral\nbaseurl=http://download.webmin.com/download/yum\nenabled=1" > /etc/yum.repos.d/webmin.repo
 
 rpm --import http://www.webmin.com/jcameron-key.asc
@@ -297,7 +297,7 @@ Copy and paste the preceding text into the terminal, and you’ll then download 
 
 Here’s the strange part. Unlike most linux installations, Webmin takes a little trick to get started on Amazon. Maybe you recall the Geek Note from earlier, but Amazon AMIs don’t allow you to log in with the ‘root’ user. Webmin is set up so that root is the way to go. So to fix this, you’ll do the following:
 
-```text
+```sh
 /usr/libexec/webmin/changepass.pl /etc/webmin root YOURpass_word
 
 ```
@@ -379,7 +379,7 @@ mysql\> exit
 
 Add Wordpress to the html folder:
 
-```text
+```sh
 cd /var/www/html
 
 wget http://wordpress.org/latest.zip
@@ -426,7 +426,7 @@ $table_prefix  = 'wp_';
 
 You can use <https://api.wordpress.org/secret-key/1.1/salt/> to generate unique digits
 
-```text
+```sh
 Cd ~/
 
 Cd /var/www
@@ -441,11 +441,8 @@ Rebuild permalinks if you import database directly
 
 \# Added based on site - <http://dumpk.com/2013/09/17/mysql-crash-problems-on-ec2-aws/>
 
-```text
+```sh
 innodb_buffer_pool_size = 40M
 key_buffer_size=10M
 max_connections=5
 ```
-
-
-
