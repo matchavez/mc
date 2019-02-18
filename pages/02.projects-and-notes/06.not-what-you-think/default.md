@@ -2,7 +2,7 @@
 title: 'Not What You Think'
 ---
 
-_### These things are probably different than you think..._
+### _These things are probably different than you think..._
 
 #### Altitude and Elevation
 
