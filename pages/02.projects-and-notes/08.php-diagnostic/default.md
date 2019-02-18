@@ -9,7 +9,7 @@ Get the server address:
     $ip = $_SERVER['SERVER_ADDR'];
     print "IP: ";
     print "$ip<br />\n";
-          ?>
+?>
 ```
 
 Get the PHP version information
