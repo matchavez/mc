@@ -2,7 +2,7 @@
 title: 'Curriculum Vitae'
 ---
 
-!! This is obviously incomplete and not for public consumption.
+!! :fa-flag: This is obviously incomplete and not for public consumption.
 
 ---
 
