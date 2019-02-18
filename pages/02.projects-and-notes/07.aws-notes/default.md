@@ -361,7 +361,7 @@ Hey, that’s not bad! From here forward, it’s about Wordpress. If you want to
 
 If you reboot your machine, services just installed will not restart unless you make them run on startup. This can be done in Webmin in System \> Bootup and Shutdown. Select httpd, mysqld, and webmin, and set them to “Start on Boot”. If you’re troubleshooting, you may or may not want these on, but generally, it’s a good idea.
 
-Create a new sql user and password
+15. - Create a new sql user and password
 
 /usr/bin/mysqladmin -u root password ‘YOURpass\_word’
 
