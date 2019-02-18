@@ -15,7 +15,7 @@ Get the server address:
 Get the PHP version information
 
 ```php
-	<?php
-        phpinfo();
-    ?>
+<?php
+    phpinfo();
+?>
 ```
