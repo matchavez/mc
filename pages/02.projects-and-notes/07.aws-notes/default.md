@@ -240,7 +240,7 @@ cd /usr/mysql-test ; perl mysql-test-run.pl
 
 Please report any problems with the /usr/bin/mysqlbug script!
 
-\#11 - The pre-processor
+11. - The pre-processor
 
 ```text
 yum install php php-mysql
@@ -274,7 +274,7 @@ New information… in an attempt to resolve mbstring problems, I did:
 yum install php55-gd
 ```
 
-\#12 - It gets easier
+12. - It gets easier
 
 At this point, the web server still isn’t terribly useful, since it’s just serving a regular ol’ test page that you can’t get to. The remaining steps of configuring your LAMP server are intended to make things easier on you, the administrator. There are three remaining steps I’ll go through here.
 
@@ -308,7 +308,7 @@ Go to your ip address, and recall we punched a hole in the firewall at port 1000
 
 Once through, a Webmin login and password will be required. They are of course what you just set; root and your password.
 
-\#13 - vsftpd
+13. - vsftpd
 
 Yum install vsftpd will install the ftp daemon. This is straight ahead, and remember, there’s a hole punched in 20 and 21.
 
@@ -339,7 +339,7 @@ Test that you can see the file in a web browser. If you set your IP address, it 
 
 Remember, you installed it and added ftpftp, with pw ftpftpftpftp
 
-\#14 - LAMP'd
+14. - LAMP'd
 
 OK, take a deep breath. The environment is built! Here’s the checklist of accomplishments so far:
 
