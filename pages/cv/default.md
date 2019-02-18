@@ -4,6 +4,8 @@ title: 'Curriculum Vitae'
 
 !! This is obviously incomplete and not for public consumption.
 
+---
+
 ## Mat Chavez
 
 #### Address, Phone, Email
