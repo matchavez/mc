@@ -1,3 +1,16 @@
+# v1.9.0-rc.3
+## 02/18/2019
+
+1. [](#improved)
+    * Refactored "NewsFeeds" and "Notifications" for better performance and to address CORS issues
+    * Flex user profile now uses Flex Form
+    * Moved dashboard `notifications` logic to server-side for increased performance (1 request instead of 3)
+    * Refactored feeds logic for better performance
+    * Updated languages
+1. [](#bugfix)
+    * Text in Tab Tools/Direct install disappears [#1613](https://github.com/getgrav/grav-plugin-admin/issues/1613)
+
+
 # v1.9.0-rc.2
 ## 02/07/2019
 
@@ -97,6 +110,21 @@
     * New `Scheduler` configuration panel in tools
     * New `Backups` configuration panel in tools
     * New `Cache::purge()` option in cache drop-down to clear out old cache only
+    
+# v1.8.19
+## 02/13/2019
+
+1. [](#bugfix)
+    * Moved `show_modular` to proper place - Doh! [grav#2362](https://github.com/getgrav/grav/issues/2362)  
+
+# v1.8.18
+## 02/12/2019
+
+1. [](#bugfix)
+    * Set default value for `show_modular` [grav#2362](https://github.com/getgrav/grav/issues/2362)  
+
+# v1.8.17
+## 02/07/2019    
 
 # v1.8.17
 ## 02/07/2019

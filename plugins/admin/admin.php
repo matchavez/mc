@@ -373,11 +373,11 @@ class AdminPlugin extends Plugin
     public function onAdminTools(Event $event)
     {
         $event['tools'] = array_merge($event['tools'], [
-            $this->grav['language']->translate('PLUGIN_ADMIN.BACKUPS'),
-            $this->grav['language']->translate('PLUGIN_ADMIN.SCHEDULER'),
-            $this->grav['language']->translate('PLUGIN_ADMIN.LOGS'),
-            $this->grav['language']->translate('PLUGIN_ADMIN.REPORTS'),
-            $this->grav['language']->translate('PLUGIN_ADMIN.DIRECT_INSTALL'),
+            'backups'        => [['admin.maintenance', 'admin.super'], $this->grav['language']->translate('PLUGIN_ADMIN.BACKUPS')],
+            'scheduler'      => [['admin.super'], $this->grav['language']->translate('PLUGIN_ADMIN.SCHEDULER')],
+            'logs'           => [['admin.super'], $this->grav['language']->translate('PLUGIN_ADMIN.LOGS')],
+            'reports'        => [['admin.super'], $this->grav['language']->translate('PLUGIN_ADMIN.REPORTS')],
+            'direct-install' => [['admin.super'], $this->grav['language']->translate('PLUGIN_ADMIN.DIRECT_INSTALL')],
         ]);
 
         return $event;
@@ -563,6 +563,7 @@ class AdminPlugin extends Plugin
         $twig->twig_vars['location'] = $this->template;
         $twig->twig_vars['base_url_relative_frontend'] = $twig->twig_vars['base_url_relative'] ?: '/';
         $twig->twig_vars['admin_route'] = trim($this->admin_route, '/');
+        $twig->twig_vars['template_route'] = $this->template;
         $twig->twig_vars['current_route'] = '/' . $twig->twig_vars['admin_route'] . '/' . $this->template . '/' . $this->route;
         $twig->twig_vars['base_url_relative'] = $twig->twig_vars['base_url_simple'] . '/' . $twig->twig_vars['admin_route'];
         $twig->twig_vars['current_url'] = rtrim($twig->twig_vars['base_url_relative'] . '/' . $this->template . '/' . $this->route, '/');

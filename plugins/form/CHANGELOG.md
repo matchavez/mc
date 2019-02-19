@@ -1,3 +1,14 @@
+# v3.0.0-rc.3
+## 02/18/2019
+
+1. [](#improved)
+    * Improved the `hidden` field logic to support `value` or `default` set
+    * Set the message globally on `messages` object when using a redirect in form
+1. [](#bugfix)
+    * Fixed forms not being cached properly
+    * Fixed issue with `selectize`, automatically selecting an unintended value
+    * Throw exception if you try to `add` to a file and don't provide `filename` [#324](https://github.com/getgrav/grav-plugin-form/issues/324)
+
 # v3.0.0-rc.2
 ## 02/07/2019
 

@@ -431,6 +431,11 @@ class FormPlugin extends Plugin
                 $twig = $this->grav['twig'];
                 $url = $twig->processString($url, $vars);
 
+                $message = $form->message;
+                if ($message) {
+                    $this->grav['messages']->add($form->message, 'success');
+                }
+
                 $event['redirect'] = $url;
                 $event->stopPropagation();
                 break;
@@ -483,6 +488,10 @@ class FormPlugin extends Plugin
                 $operation = $params['operation'] ?? 'create';
 
                 if (!$filename) {
+                    if ($operation === 'add') {
+                        throw new \RuntimeException('Form save: \'operation: add\' is only supported with a static filename');
+                    }
+
                     $filename = $prefix . $this->udate($format, $raw_format) . $postfix. $ext;
                 }
 
@@ -932,8 +941,7 @@ class FormPlugin extends Plugin
     {
         // Get and set the cache of forms if it exists
         try {
-            //[$forms] = $this->grav['cache']->fetch($this->getFormCacheId());
-            $forms = null;
+            [$forms] = $this->grav['cache']->fetch($this->getFormCacheId());
         } catch (\Exception $e) {
             // Couldn't fetch cached forms.
             $forms = null;
