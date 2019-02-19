@@ -3,13 +3,10 @@ title: 'Favourite Quotes'
 ---
 
 > “Micromanaging is always an indicator of bad decisions made months earlier.” <cite>Michael Lopp</cite>
-
 ---
 > “The truth unquestionably is, that the only path to a subversion of the republican system of the Country is, by flattering the prejudices of the people, and exciting their jealousies and apprehensions, to throw affairs into confusion, and bring on civil commotion…When a man unprincipled in private life, desperate in his fortune, bold in his temper, possessed of considerable talents…despotic in his ordinary demeanour – known to have scoffed in private at the principles of liberty – when such a man is seen to mount the hobby horse of popularity – to join in the cry of danger to liberty – to take every opportunity of embarrassing the General Government & bringing it under suspicion – to flatter and fall in with all the nonsense of the zealots of the day… It may justly be suspected that his object is to throw things into confusion that he may ‘ride the storm and direct the whirlwind.’”<cite>Alexander Hamilton *(Objections and Answers Respecting the Administration, 18 August 1792)*</cite>
-
- 
-
-> “The plural of anecdote is not data.”
+---
+ > “The plural of anecdote is not data.”
 
 - _Unknown_
 
