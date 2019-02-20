@@ -26,7 +26,7 @@ Within Apache, up the standard PHP upload limit
 $ cd /etc/php/apache2
 $ vim php.ini
 ```
-!!! Line 809, upload_max_filesize = 2M, switch to `32M`
+###### Line 809, upload_max_filesize = 2M, switch to `32M`
 ```sh
 :wq
 $ service httpd restart
