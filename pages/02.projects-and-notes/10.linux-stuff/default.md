@@ -20,13 +20,14 @@ Then add `consoleblank=0` to the `GRUB_CMDLINE_LINUX_DEFAULT=,`parameter.
 Within Apache, up the standard PHP upload limit
 
 ```sh
-cd /etc/php/apache2
-vim php.ini
+$ cd /etc/php/apache2
+$ vim php.ini
+```
 Line 809, upload_max_filesize = 2M 
 Switch to 32M
+```sh
 :wq
-
-service httpd restart
+$ service httpd restart
 ```
 
 Disk space
