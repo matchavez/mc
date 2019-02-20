@@ -23,7 +23,7 @@ Turn off Prefetch Cache
 defaults write com.apple.safari WebKitDNSPrefetchingEnabled -boolean false
 ```
 
-Compact Sparseimages
+Compact Sparseimages (example where "Media Store" is the name of the image)
 
 ```sh
 hdiutil compact "Media Store.sparsebundle" -batteryallowed
