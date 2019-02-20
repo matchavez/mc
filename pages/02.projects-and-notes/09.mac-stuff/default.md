@@ -2,6 +2,8 @@
 title: 'Mac Stuff'
 ---
 
+### Handy Mac commands:
+
 Show Hidden Files
 
 ```sh
