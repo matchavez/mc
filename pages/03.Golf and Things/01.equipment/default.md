@@ -20,7 +20,7 @@ title: Equipment
 | Pitching Wedge      | i200             | Nippon Modus3        | 105 S, Hard-stepped      | 45º                 | D6                  | 36"       |
 | Utility Wedge          | i200             | Nippon Modus3        | 105 S, Hard-stepped      | 50º                 | D6                  | 36"       |
 | Sand Wedge           | Glide 2        | Nippon Modus3        | 105 S, Hard-stepped 2x | 54º                 | D6                  | 36"       |
-| Lob Wedge             | Glide 2        | Dynamic Gold S300  | 105 S, Hard-stepped 2x | 58º                 | D4                  | 35.25"  |
+| Lob Wedge             | Glide 2        | Dynamic Gold           | S300                                | 58º                 | D4                  | 35.25"  |
 | Putter                      | Kinloch C    | Ping Adjustable        | Centre-shafted                | 4º                   | n/a                 | 34.5"    |
 | **_On the bench_** |
 | Driving Iron             | Rapture DI   | UST Recoil Proto     | 110 F5                            | 18º                 | D5                   | 39"       |
