@@ -29,7 +29,7 @@ Compact Sparseimages (example where "Media Store" is the name of the image)
 hdiutil compact "Media Store.sparsebundle" -batteryallowed
 ```
 
-Disable Time Machine Local Snapshots
+Disable Time Machine Local Snapshots (Prevents a Mac's hard drive from filling up to 80% on just backups)
 ```sh
 sudo tmutil disablelocal
 ```
