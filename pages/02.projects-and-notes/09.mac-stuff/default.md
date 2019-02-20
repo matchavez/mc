@@ -14,3 +14,9 @@ $ killall Finder
 ```sh
 sudo dscacheutil -flushcache
 ```
+
+Turn off Prefetch Cache
+
+```sh
+defaults write com.apple.safari WebKitDNSPrefetchingEnabled -boolean false
+```
