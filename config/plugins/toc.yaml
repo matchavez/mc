@@ -1,4 +1,4 @@
-enabled: true
+enabled: false
 active: true
 built_in_css: true
 title: true
@@ -7,6 +7,7 @@ permalink: true
 placement: left
 visible: always
 icon: '#'
+class: {  }
 baselevel: 1
 headinglevel: 6
 slug:
