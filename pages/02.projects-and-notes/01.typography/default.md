@@ -21,12 +21,6 @@ title: Typography
 
 ###### H6 Heading `16px`
 
-```html
-# H1 Heading
-# H1 Heading `40px`</small>`
-
-<span class="h1">H1 Heading</span>
-```
 
 ### Paragraphs
 
