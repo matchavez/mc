@@ -47,7 +47,7 @@ If you write anything this way, you'll understand exactly why you need it. Try i
 
 Part of the GFM upgrade for Markdown is that it allows checkboxes:
 
-- [ ] Easy!
+- [x] Easy!
 
 ##### Easy Transfer
 
