@@ -13,25 +13,36 @@ code {
 }
 
 #sidebar ul li.active > a {
-	background-color: #ff8a8a;
+	background-color: #bb9393;
 }
 
 #sidebar ul.topics > li > a b {
-	color: #71fb31;
+	color: #000;
 	
 }
 
 #top-bar {
-	background: #652626;
+	background: #07003b;
 }
 
+th {
+	background: #270808;
+}
+
+.notices {
+	padding: 25px 20px 1px 30px !important;
+}
+
+blockquote {
+	font-family: "Palatino", serif;
+}
 
 /*
 Everything above here is custom written.
 	
 Everything below is a copy of my Typora SolarBlue theme. It's probably best to leave this alone, and change things above.
 
-a and code have been commented out.
+a have been commented out.
 
 */
 
@@ -338,7 +349,7 @@ blockquote {
     border-left: solid 2px #474d54;
     padding-left: 30px;
     margin-top: 35px;
-    font-family: "Source Serif Pro", serif;
+/*     font-family: "Source Serif Pro", serif; */
     letter-spacing: normal;
 }
 
