@@ -21,12 +21,15 @@ title: Typography
 
 ###### H6 Heading `16px`
 
+---
 
 ### Paragraphs
 
 Lorem ipsum dolor sit amet, consectetur [adipiscing elit. Praesent risus leo, dictum in vehicula sit amet](#), feugiat tempus tellus. Duis quis sodales risus. Etiam euismod ornare consequat.
 
 Climb leg rub face on everything give attitude nap all day for under the bed. Chase mice attack feet but rub face on everything hopped up on goofballs.
+
+---
 
 ### Markdown Semantic Text Elements
 
@@ -58,6 +61,8 @@ Text<sub>Subscripted</sub> `<sub>`
 
 <var>x = y + 2</var> `<var>`
 
+---
+
 ### Blockquote
 
 > The advance of technology is based on making it fit in so that you don't really even notice it,
@@ -71,6 +76,8 @@ Text<sub>Subscripted</sub> `<sub>`
 >
 > <cite>- Bill Gates</cite>
 ```
+
+---
 
 ### Unordered List
 
@@ -90,6 +97,9 @@ Text<sub>Subscripted</sub> `<sub>`
 * list item 3
 ```
 
+---
+
+
 ### Ordered List
 
 1. list item 1
@@ -108,6 +118,9 @@ Text<sub>Subscripted</sub> `<sub>`
 1. list item 3
 ```
 
+---
+
+
 ### Table
 
 | Name                        | Genre                         | Release date         |
@@ -125,6 +138,8 @@ Text<sub>Subscripted</sub> `<sub>`
 | Schindler's List            | Biography, Drama, History     | 4 February 1994      |
 | Se7en                       | Crime, Drama, Mystery         | 22 September 1995    |
 ```
+
+---
 
 ### Notices
 
@@ -148,6 +163,9 @@ The notices styles are actually provided by the `markdown-notices` plugin but ar
 
 !!!! This is a success notification
 ```
+
+---
+
 
 ### Code
 
