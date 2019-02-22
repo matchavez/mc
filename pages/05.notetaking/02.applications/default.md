@@ -2,7 +2,7 @@
 title: Applications
 ---
 
-!!! Fill this in:
+!!! Stub for Applications
 
 #### FSNotes
 
