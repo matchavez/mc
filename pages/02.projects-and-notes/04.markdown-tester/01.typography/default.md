@@ -155,3 +155,24 @@ The notices styles are actually provided by the `markdown-notices` plugin but ar
 !!!! This is a success notification
 ```
 
+### Code
+
+Single-line code:
+
+`Use single apostrophes for one line.`
+
+Use “code fences” \`\`\` to block in multiple lines of code.
+
+```html
+<h5>THis is unrendered code in monospace and a selected language format...</h5>
+```
+
+```css
+a#logo h1 {
+  color: #ff0000;
+}
+
+#header {
+  background: #000000;
+}
+```
