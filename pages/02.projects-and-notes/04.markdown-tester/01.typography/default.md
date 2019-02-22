@@ -164,7 +164,7 @@ Single-line code:
 Use “code fences” \`\`\` to block in multiple lines of code.
 
 ```html
-<h5>THis is unrendered code in monospace and a selected language format...</h5>
+<h5>This is unrendered code in monospace and a selected language format...</h5>
 ```
 
 ```css
