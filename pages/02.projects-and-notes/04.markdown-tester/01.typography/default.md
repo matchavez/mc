@@ -4,7 +4,10 @@ title: Typography
 
 !!! Most of the changes in typographical theming are taken from a modified theme of Typora. The Typora .css is available at [my GitHub](https://github.com/matchavez/TyporaThemes/).
 
+---
+
 ### Headings
+
 
 # H1 Heading `40px`
 
