@@ -77,6 +77,10 @@ Text<sub>Subscripted</sub> `<sub>`
 > <cite>- Bill Gates</cite>
 ```
 
+> “Inside every cynical person, there is a disappointed idealist.”
+
+– George Carlin
+
 ---
 
 ### Unordered List

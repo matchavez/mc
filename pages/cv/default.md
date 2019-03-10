@@ -8,11 +8,11 @@ title: 'Curriculum Vitae'
 
 ## Mat Chavez
 
-#### Address, Phone, Email
+#### matchavez@icloud.com
 
 ### Personal Profile
 
-Add here
+See my history on LinkedIn.
 
 ### Qualifications
 
