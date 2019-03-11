@@ -1,5 +1,6 @@
 ---
-title: 'Azure DevOps Table Render Bug'
+title: 'Azure DevOps Indented Table Rendering Bug'
+media_order: 'Screen Shot 2019-03-11 at 16.58.04.png,Screen Shot 2019-03-11 at 16.57.27.png'
 ---
 
  ## Bug Report - Azure DevOps markdown rendering of tables does not respect indented opening pipes
@@ -138,3 +139,6 @@ Added leading space /192:
  ---
  
 
+![Azure DevOps render screencap 1](Screen%20Shot%202019-03-11%20at%2016.58.04.png)
+
+![Azure DevOps render screencap 2](Screen%20Shot%202019-03-11%20at%2016.57.27.png)
