@@ -3,7 +3,7 @@ default-site-backup:
   last-run: 1552194005
 cache-clear:
   state: success
-  last-run: 1552186801
+  last-run: 1552273200
 cache-purge:
   state: success
   last-run: 1552190400
