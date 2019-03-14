@@ -9,8 +9,8 @@ sync:
   on_save: false
   on_delete: true
   on_media: true
-  cron_enable: false
-  cron_at: '0 * * * *'
+  cron_enable: true
+  cron_at: '0,30 * * * *'
 repository: 'https://github.com/matchavez/mc'
 user: matchavez
 webhook: /_git-sync-4ed23131040a
