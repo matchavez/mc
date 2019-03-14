@@ -2,45 +2,53 @@
 title: 'Favourite Quotes'
 ---
 
-> “Micromanaging is always an indicator of bad decisions made months earlier.” <cite>Michael Lopp</cite>
+> “Micromanaging is always an indicator of bad decisions made months earlier.” 
+> 
+> <cite>Michael Lopp</cite>
 
 ---
 
-> “The truth unquestionably is, that the only path to a subversion of the republican system of the Country is, by flattering the prejudices of the people, and exciting their jealousies and apprehensions, to throw affairs into confusion, and bring on civil commotion…When a man unprincipled in private life, desperate in his fortune, bold in his temper, possessed of considerable talents…despotic in his ordinary demeanour – known to have scoffed in private at the principles of liberty – when such a man is seen to mount the hobby horse of popularity – to join in the cry of danger to liberty – to take every opportunity of embarrassing the General Government & bringing it under suspicion – to flatter and fall in with all the nonsense of the zealots of the day… It may justly be suspected that his object is to throw things into confusion that he may ‘ride the storm and direct the whirlwind.’”<cite>Alexander Hamilton *(Objections and Answers Respecting the Administration, 18 August 1792)*</cite>
+> “The truth unquestionably is, that the only path to a subversion of the republican system of the Country is, by flattering the prejudices of the people, and exciting their jealousies and apprehensions, to throw affairs into confusion, and bring on civil commotion…When a man unprincipled in private life, desperate in his fortune, bold in his temper, possessed of considerable talents…despotic in his ordinary demeanour – known to have scoffed in private at the principles of liberty – when such a man is seen to mount the hobby horse of popularity – to join in the cry of danger to liberty – to take every opportunity of embarrassing the General Government & bringing it under suspicion – to flatter and fall in with all the nonsense of the zealots of the day… It may justly be suspected that his object is to throw things into confusion that he may ‘ride the storm and direct the whirlwind.’”
+> 
+> <cite>Alexander Hamilton _(Objections and Answers Respecting the Administration, 18 August 1792)_</cite>
 
 ---
 
 > “The plural of anecdote is not data.”
+> 
+> <cite>Unknown</cite>
 
-- _Unknown_
+---
 
 > “People demand freedom of speech as a compensation for the freedom of thought which they seldom use.”
+> 
+> <cite>Soren Kierkegaard</cite>
 
-– Soren Kierkegaard
-
- 
+---
 
 > “The world is full of magic things, patiently waiting for our senses to grow sharper.”
+> 
+> <cite>W.B. Yeats</cite>
 
-– W.B. Yeats
-
- 
+---
 
 > “Today’s the youngest you’ll ever be, so live like it!”
+> 
+> <cite>_Unknown_</cite>
 
- - _Unknown_
+---
 
 > “When all is said and done, success without happiness is the worst kind of failure.”
+> 
+> <cite>Louis Binstock</cite>
 
-– Louis Binstock
-
- 
+---
 
 > “Never allow a person to tell you no who doesn’t have the power to say yes.”
+> 
+> <cite>Eleanor Roosevelt</cite>
 
-– Eleanor Roosevelt
-
- 
+---
 
 > “Inside every cynical person, there is a disappointed idealist.”
 

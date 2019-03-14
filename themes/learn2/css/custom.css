@@ -113,10 +113,9 @@ a have been commented out.
 	select,
 	textarea {
 	    font-style: normal;
-	    line-height: 1.25rem;
-	    font-family: "Avenir Next","SF UI Text","Helvetica Neue", Helvetica, Arial, sans-serif;
-	    font-weight: 550;
-	    letter-spacing: -0.6px;
+	    line-height: 1.5rem;
+	    font-family:  "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	    font-weight: 500;
 	}
 	
 	hr {
@@ -131,7 +130,7 @@ a have been commented out.
 	h4,
 	h5,
 	h6 {
-	    font-family: "SF UI Display", "Corbal", sans-serif;
+	    font-family: "Helvetica Neue", "SF UI Display", "Corbal", sans-serif;
 	    font-weight: Bold;
 	    clear: both;
 	    -ms-word-wrap: break-word;
@@ -142,42 +141,42 @@ a have been commented out.
 	}
 	
 	h1 {
-	    font-size: 2.25rem;
+	    font-size: 2.75rem;
 	    /* 32px */
-	    line-height: 2.25rem;
+	    line-height: 2.75rem;
 	    /* 32px */
-	    margin-bottom: 1.5rem;
+	    margin-bottom: 1.75rem;
 	    /* 24px */
 	    letter-spacing: -0.5px;
 	    color: #fdf6e3;
 	}
 	
 	h2 {
-	    font-size: 1.63rem;
+	    font-size: 1.75rem;
 	    /* 24px */
 	    line-height: 1.63rem;
 	    /* 24px */
 	    margin-bottom: 1.5rem;
 	    /* 24px */
-	    letter-spacing: -1px;
+	    letter-spacing: -0.6px;
 	    font-weight: bold;
 	    color: #fee8d5;
 	}
 	
 	h3 {
-	    font-size: 1.25rem;
+	    font-size: 1.5rem;
 	    /* 20px */
 	    line-height: 1.5rem;
 	    /* 24px */
 	    margin-bottom: 1.5rem;
 	    /* 24px */
-	    letter-spacing: -1px;
+	    letter-spacing: -0.6px;
 	    font-weight: bold;
 	    color: #2eaa76;
 	}
 	
 	h4 {
-	    font-size: 1.12rem;
+	    font-size: 1.25rem;
 	    /* 16px */
 	    line-height: 1.375rem;
 	    /* 22px */
@@ -444,7 +443,7 @@ a have been commented out.
 	}
 	
 	blockquote p {
-	    color: #ffa647 !important;
+	    color: #d9d07b !important;
 	}
 
 	

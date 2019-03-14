@@ -1,16 +1,17 @@
 ---
 title: 'Azure DevOps Indented Table Rendering Bug'
-media_order: 'Screen Shot 2019-03-11 at 16.58.04.png,Screen Shot 2019-03-11 at 16.57.27.png'
 ---
 
  ## Bug Report - Azure DevOps markdown rendering of tables does not respect indented opening pipes
+
+!!!! Get the [raw markdown](http://matchavez.com/user/pages/02.projects-and-notes/10.azure-devops-table-render-bug/default.md) of this page
 
  #### Problem
  In any known case where Azure DevOps is rendering a table that has been indented, the treatment of the first row of content (commonly the third row of a table) does not respect the opening pipe character. This offsets content from its header by one column to the right.
 
  #### Observations
 
- Please see the examples listed below. The examples will show that leading spaces are considered a column as indicated in GFM Spec example 192. This respect of no need for a lead pipe only occurs under indented rows after the table indicators of pipe-and-three-dashes.
+ Please see the examples listed below. The examples will show that leading spaces are considered a column as indicated in [GFM Spec example 192](https://github.github.com/gfm/#tables-extension-). This respect of no need for a lead pipe only occurs under indented rows after the table indicators of pipe-and-three-dashes.
 
  #### Expectation
 
@@ -23,6 +24,16 @@ Rendering should be done in a consistent manner with GFM and all other known int
 
 
 ### Observation examples. Each example is readable as rendered with the example code in a code fence.
+
+! _These screen captures are from Azure DevOps. Indented, leading pipes are treated as the border between the "first and second" columns, differently than non-indented tables and against spec._
+
+![](1.png)
+
+![](2.png)
+
+---
+
+!!!! _These are the same examples, but just rendered out in here, via Grav CMS. The examples all render properly, and would be what is expected based on an appropriate treatment of an indented leading pipe._
 
 > This table should provide the same rendering as the next table. It has a leading space in the third row (first content).
 
@@ -137,8 +148,3 @@ Added leading space /192:
  bar | baz
 
  ---
- 
-
-![Azure DevOps render screencap 1](Screen%20Shot%202019-03-11%20at%2016.58.04.png)
-
-![Azure DevOps render screencap 2](Screen%20Shot%202019-03-11%20at%2016.57.27.png)
