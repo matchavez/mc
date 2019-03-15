@@ -114,8 +114,8 @@ a have been commented out.
 	textarea {
 	    font-style: normal;
 	    line-height: 1.5rem;
-	    font-family:  "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	    font-weight: 500;
+	    font-family:  "Source Sans Pro", "Georgia", sans-serif;
+	    font-weight: 600;
 	}
 	
 	hr {
@@ -130,7 +130,7 @@ a have been commented out.
 	h4,
 	h5,
 	h6 {
-	    font-family: "Helvetica Neue", "SF UI Display", "Corbal", sans-serif;
+	    font-family: "Source Sans Pro", "Georgia", "SF UI Display", "Corbal", "Helvetica Neue", sans-serif;
 	    font-weight: Bold;
 	    clear: both;
 	    -ms-word-wrap: break-word;
