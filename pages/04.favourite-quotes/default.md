@@ -54,191 +54,206 @@ title: 'Favourite Quotes'
 > 
 > <cite>George Carlin</cite>
 
- 
+---
 
 > “Be kind, for everyone you meet is fighting a hard battle.”
 > 
 > <cite>Plato</cite>
 
- 
+---
 
 > “All things are ready, if our minds be so.”
 > 
 > <cite>William Shakespeare</cite>
 
- 
+---
 
 > “Repetition is the death of magic.”
 > 
 > <cite>Bill Watterson</cite>
 
- 
+---
 
 > “Don’t play for safety. It’s the most dangerous thing in the world.”
 > 
 > <cite>Hugh Walpole</cite>
 
- 
+---
 
 > “Throughout the centuries, there were men who took first steps, down new roads, armed with nothing but their own vision.”
 > 
 > <cite>Ayn Rand</cite>
 
- 
+---
 
 > “He who lives in harmony with himself lives in harmony with with the world.”
+> 
+> <cite>Marcus Auraleus</cite>
 
-– Marcus Auraleus
-
- 
+---
 
 > “You must be the change you want to see in the world.”
+> 
+> <cite>Mahatma Gandhi</cite>
 
-– Mahatma Gandhi
-
- 
+---
 
 > “Never mistake activity for achievement.”
+> 
+> <cite>John Wooden</cite>
 
-– John Wooden
+---
 
- 
+> “Life is like riding a bicycle. To keep your balance, you must keep moving
+> 
+> <cite>– Albert Einstein</cite>
 
-> “Life is like riding a bicycle. To keep your balance, you must keep moving.”
+---
 
-– Albert Einstein
+> “What the caterpillar calls the end of the world, the master calls a butterfly."
+> 
+> <cite>Richard Bach</cite>
 
- 
-
-> “What the caterpillar calls the end of the world, the master calls a butterfly.”
-
-– Richard Bach
-
- 
+---
 
 > “It is what you read when you don’t have to that determines what you will be when you can’t help it.”
+> 
+> <cite>Oscar Wilde</cite>
 
-– Oscar Wilde
-
- 
+---
 
 > “Good is the enemy of great.”
+> 
+> <cite>Jim Collins</cite>
 
-– Jim Collins
-
- 
+---
 
 > “Don’t let schooling interfere with your education.”
+> 
+> <cite>Mark Twain</cite>
 
-– Mark Twain
-
- 
+---
 
 > “Educating the mind without educating the heart is no education at all.”
+> 
+> <cite>Aristotle</cite>
 
-– Aristotle
-
- 
+---
 
 > “Fear is a lack of data.”
+> 
+> <cite>_Unknown_</cite>
 
- - _Unknown_
+---
 
 > “Honesty is a very expensive gift. Do not expect it from cheap people.”
+> 
+> <cite>_Unknown_</cite>
 
- - _Unknown_
+---
 
 > “Success is a lousy teacher. It seduces smart people into thinking they can’t lose.”
+> 
+> <cite>Bill Gates</cite>
 
-– Bill Gates
-
- 
+---
 
 > “Prefer to be defeated in the company of the wise, than to excel among fools.”
+> 
+> <cite>Dogen Zenji</cite>
 
-– Dogen Zenji
-
- 
+---
 
 > “We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.”
+> 
+> <cite>Plato</cite>
 
-– Plato
-
- 
+---
 
 > “Be faithful to the nightmare of your choosing.”
+> 
+> <cite>_Unknown_</cite>
 
- - _Unknown_
+---
 
 > “Luck is probability taken personally.”
+> 
+> <cite>_Unknown_</cite>
 
- - _Unknown_
+---
 
 > “Love all, trust a few, do wrong to none.”
+> 
+> <cite>William Shakespeare</cite>
 
-– William Shakespeare
-
- 
+---
 
 > “You can never cross the ocean unless you have the courage to lose sight of the shore.”
+> 
+> <cite>Christopher Columbus</cite>
 
-– Christopher Columbus
-
- 
+---
 
 > “If you’re not prepared to be wrong, you’ll never come up with anything original.”
+> 
+> <cite>Sir Ken Robinson</cite>
 
-– Sir Ken Robinson
-
- 
+---
 
 > “By 2000, politics will simply fade away. We will not see any political parties.”
+> 
+> <cite>R. Buckminster Fuller</cite>
 
-– R. Buckminster Fuller
-
- 
+---
 
 > “You manage what you measure.”
+> 
+> <cite>_Unknown_</cite>
 
- - _Unknown_
+---
 
 > “It is the mark of an educated mind to be able to entertain a thought without accepting it.”
+> 
+> <cite>Aristotle</cite>
 
-– Aristotle
+---
 
- 
 
 > “I hope we shall take warning from the example and crush in it’s [sic] birth the aristocracy of our monied corporations which dare already to challenge our government to a trial of strength and bid defiance to the laws our country.”
+> 
+> <cite>Thomas Jefferson _in Letter To George Logan, 12 Nov 1816_</cite>
 
-– Thomas Jefferson in Letter To George Logan, 12 Nov 1816
-
- 
+---
 
 > “Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.”
+> 
+> <cite>Winston Churchill</cite>
 
-– Winston Churchill
-
- 
+---
 
 > “I almost shudder at the thought of alluding to the most fatal example of the abuses of grief which the history of humankind has preserved – the Cross. Consider what calamities that engine of grief has produced!”
+> 
+> <cite>John Adams</cite>
 
-– John Adams
-
- 
+---
 
 > “Just as places are sensed, senses are placed.”
+> 
+> <cite>_Unknown_</cite>
 
- - _Unknown_
+---
 
 > “The odds do not determine the outcome.”
+> 
+> <cite>_Unknown_</cite>
 
- - _Unknown_
+---
 
 > “For most amateurs the best wood in the bag is the pencil.”
+> 
+> <cite>Chi Chi Rodriguez</cite>
 
-– Chi Chi Rodriguez
-
- 
+---
 
 > “It is not the critic who counts, not the man who points out how the strong man stumbles or where the doer of deeds could have done better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood, who strives valiantly, who errs and comes up short again and again, because there is no effort without error or shortcoming, but who knows the great enthusiasms, the great devotions, who spends himself for a worthy cause; who, at the best, knows in the end the triumph of high achievement, and who, at the worst, if he fails, at least he fails while daring greatly, so that his place shall never be with those cold and timid souls who knew neither victory nor defeat.”
 
