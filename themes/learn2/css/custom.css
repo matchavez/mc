@@ -41,6 +41,10 @@ th {
 	margin: 0 auto;
 }
 
+.copy-to-clipboard {
+	background-color: #f00;
+}
+
 /*
 Everything above here is custom written.
 	
@@ -152,7 +156,7 @@ a have been commented out.
 	    margin-bottom: 1.75rem;
 	    /* 24px */
 	    letter-spacing: -0.5px;
-	    color: #fdf6e3;
+	    color: #fff;
 	}
 	
 	h2 {
