@@ -1,5 +1,10 @@
-last_checked: 1553071712
+last_checked: 1553463716
 data:
+  -
+    title: 'Important Theme Updates'
+    url: 'https://getgrav.org/blog/important-theme-updates'
+    date: 1553169300
+    nicetime: '3 days ago'
   -
     title: 'All RocketTheme Grav Themes 50% Off for Black Friday'
     url: 'https://getgrav.org/blog/rockettheme-blackfriday-2018'
@@ -44,9 +49,4 @@ data:
     title: 'macOS 10.14 Mojave Apache Setup: MySQL, APC & More...'
     url: 'https://getgrav.org/blog/macos-mojave-apache-mysql-vhost-apc'
     date: 1537873200
-    nicetime: '6 months ago'
-  -
-    title: 'macOS 10.14 Mojave Apache Setup: Multiple PHP Versions'
-    url: 'https://getgrav.org/blog/macos-mojave-apache-multiple-php-versions'
-    date: 1537869600
     nicetime: '6 months ago'

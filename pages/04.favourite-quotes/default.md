@@ -51,38 +51,38 @@ title: 'Favourite Quotes'
 ---
 
 > “Inside every cynical person, there is a disappointed idealist.”
-
-– George Carlin
+> 
+> <cite>George Carlin</cite>
 
  
 
 > “Be kind, for everyone you meet is fighting a hard battle.”
-
-– Plato
+> 
+> <cite>Plato</cite>
 
  
 
 > “All things are ready, if our minds be so.”
-
-– William Shakespeare
+> 
+> <cite>William Shakespeare</cite>
 
  
 
 > “Repetition is the death of magic.”
-
-– Bill Watterson
+> 
+> <cite>Bill Watterson</cite>
 
  
 
 > “Don’t play for safety. It’s the most dangerous thing in the world.”
-
-– Hugh Walpole
+> 
+> <cite>Hugh Walpole</cite>
 
  
 
 > “Throughout the centuries, there were men who took first steps, down new roads, armed with nothing but their own vision.”
-
-– Ayn Rand
+> 
+> <cite>Ayn Rand</cite>
 
  
 
