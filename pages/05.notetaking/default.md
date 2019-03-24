@@ -8,7 +8,7 @@ One of the most maddening, frustrating parts of staying organised is that you ca
 
 #### No lock-in
 
-In order to be functional for me, there are several conditions that I look for. Having used a lot of notetaking applications and websites, the one thing that you should **always be wary of** before trying a new tool is how well it _exports_ your content. Many note systems are very good, but they lock you into their app. Their business model is to keep you in a subscription, and to make it as hard as possible to leave. The more months you pay, the better. 
+In order to be functional for me, there are several conditions that I look for. Having used a lot of notetaking applications and websites, the one thing that you should **always be wary of before trying a new tool is how well it _exports_ your content**. Many note systems are very good, but they lock you into their app. Their business model is to keep you in a subscription, and to make it as hard as possible to leave. The more months you pay, the better. 
 
 #### Multi-Device
 

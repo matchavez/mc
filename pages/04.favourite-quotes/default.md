@@ -256,73 +256,77 @@ title: 'Favourite Quotes'
 ---
 
 > “It is not the critic who counts, not the man who points out how the strong man stumbles or where the doer of deeds could have done better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood, who strives valiantly, who errs and comes up short again and again, because there is no effort without error or shortcoming, but who knows the great enthusiasms, the great devotions, who spends himself for a worthy cause; who, at the best, knows in the end the triumph of high achievement, and who, at the worst, if he fails, at least he fails while daring greatly, so that his place shall never be with those cold and timid souls who knew neither victory nor defeat.”
+> 
+> <cite>Theodore Roosevelt</cite>
 
-– Theodore Roosevelt
-
- 
+---
 
 > “To know when you have enough is to be rich beyond measure.”
+> 
+> <cite>Lao Tzu</cite>
 
-– Lao Tzu
-
- 
+---
 
 > “When we can no longer change a situation, we are challenged to change ourselves.”
+> 
+> <cite>Viktor Frankl</cite>
 
-– Viktor Frankl
-
- 
+---
 
 > “Cemeteries are filled with middling swordsmen.”
+> 
+> <cite>Rome / HBO</cite>
 
-– Rome / HBO
-
- 
+---
 
 > “Fanaticism consists of redoubling your efforts when you have forgotten your aim.”
+> 
+> <cite>George Santayana _in Getting Things Done_</cite>
 
-– George Santayana in Getting Things Done
-
- 
+---
 
 > “It is more important that innocence be protected than it is that guilt be punished, for guilt and crimes are so frequent in this world that they cannot all be punished. But if innocence itself is brought to the bar and condemned, perhaps to die, then the citizen will say, ‘whether I do good or whether I do evil is immaterial, for innocence itself is no protection,’ and if such an idea as that were to take hold in the mind of the citizen that would be the end of security whatsoever.”
+> 
+> <cite>John Adams</cite>
 
-– John Adams
-
- 
+---
 
 > “Know thyself. Nothing in excess.”
+> 
+> <cite>Delphi</cite>
 
-– Delphi
-
- 
+---
 
 > “An appeaser is one who feeds a crocodile, hoping it will eat him last.”
+> 
+> <cite>Winston Churchill</cite>
 
-– Winston Churchill
-
- 
+---
 
 > “Be who you are and say what you feel, because those who mind don’t matter, and those that matter don’t mind.”
+> 
+> <cite>Dr Seuss</cite>
 
-– Dr Seuss
-
- 
+---
 
 > “Expectation is the root of all heartache.”
+> 
+> <cite>Shakespeare</cite>
 
-– Shakespeare
-
- 
+---
 
 > “Simplicity is not the goal. It is the byproduct of a good idea and modest expectations.”
+> 
+> <cite>Paul Rand</cite>
 
-– Paul Rand
+---
 
 > “Success is in the sincerity of the pursuit.”
+> 
+> <cite>_Unknown_</cite>
 
- - _Unknown_
+---
 
 > “Facts are stubborn things…”
-
-– John Adams in 1770 Trial
+> 
+> <cite>John Adams in 1770 Trial</cite>
