@@ -24,3 +24,17 @@ The colous here are just a starter; there's no need to select them. You can alwa
 Also, go into `languages.yaml`, and you can change the strings for several areas. For example, in `THEME_LEARN2_SEARCH_DOCUMENTATION: " "` making this a literal space makes the search text not have a silly default.
 
 - Code highlighting plug-in turned on, using Solarized Dark.
+
+In order to relax the clipboard link obnoxious colouration, go into `images/clippy.svg` and change the svg by adding a colour indicator for the trace:
+
+`<path style="fill:#38424d;" d="M128 768 …`
+
+And add to custom.css:
+
+```css
+.copy-to-clipboard {
+	background-color: #000;
+	
+}
+```
+
