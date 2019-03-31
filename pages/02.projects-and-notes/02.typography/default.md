@@ -37,7 +37,7 @@ Climb leg rub face on everything give attitude nap all day for under the bed. Ch
 
 _Italic_ `_Italic_`
 
-~~Deleted~~ `~~Deleted~~`
+~~Strikethrough~~ `~~Strikethrough~~`
 
 `Inline Code` `` `Inline Code` ``
 
@@ -151,7 +151,7 @@ The notices styles are actually provided by the `markdown-notices` plugin but ar
 
 ! This is a warning notification
 
-!! This is a error notification
+!! This is an error notification
 
 !!! This is a default notification
 
@@ -161,7 +161,7 @@ The notices styles are actually provided by the `markdown-notices` plugin but ar
 ```markdown
 ! This is a warning notification
 
-!! This is a error notification
+!! This is an error notification
 
 !!! This is a default notification
 
