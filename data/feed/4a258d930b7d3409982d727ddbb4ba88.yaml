@@ -1,10 +1,10 @@
-last_checked: 1554066130
+last_checked: 1554155750
 data:
   -
     title: 'Important Theme Updates'
     url: 'https://getgrav.org/blog/important-theme-updates'
     date: 1553169300
-    nicetime: '1 weeks ago'
+    nicetime: '2 weeks ago'
   -
     title: 'All RocketTheme Grav Themes 50% Off for Black Friday'
     url: 'https://getgrav.org/blog/rockettheme-blackfriday-2018'
@@ -24,7 +24,7 @@ data:
     title: 'Git-Sync 2.0'
     url: 'https://getgrav.org/blog/git-sync-2.0'
     date: 1539604800
-    nicetime: '5 months ago'
+    nicetime: '6 months ago'
   -
     title: 'Vote for Grav in the 2018 CMS Critic People''s Choice Awards'
     url: 'https://getgrav.org/blog/cms-critic-award-finalists-2018'
