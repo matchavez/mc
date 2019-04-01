@@ -9,7 +9,7 @@ a:hover {
 }
 
 code {
-  background: #001 !important;
+  background: #100 !important;
 }
 
 #header {
@@ -34,7 +34,9 @@ th {
 
 .notices {
 	padding: 25px 20px 1px 30px !important;
+	background: #e7e2c1 !important;
 }
+
 
 #body-inner {
 	max-width: 800px;
@@ -56,7 +58,7 @@ a have been commented out (links).
 
 	
 	:root {
-	    --bg-color:  #113;
+	    --bg-color:  #000018;
 	    --side-bar-bg-color: #000a1b;
 	    --text-color: #eee8d5;
 	    --code-block-bg-color: #073642;
@@ -121,7 +123,7 @@ a have been commented out (links).
 	textarea {
 	    font-style: normal;
 	    line-height: 1.5rem;
-	    font-family:  "Source Sans Pro", "Helvetica Neue";
+	    font-family: "Helvetica Neue";
 	    font-weight: 500;
 	}
 	
@@ -369,10 +371,11 @@ a have been commented out (links).
 	kbd,
 	tt,
 	var {
-	    background: rgba(0, 0, 0, 0.05);
+	    background: rgba(87, 0, 0, 0.4);
 	    font-size: 1.0rem;
-	    font-family: "Source Code Pro", Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
-	    color: #00f;
+	    font-family: monospace;
+	    color: #f44;
+	    font-weight: bold;
 	}
 	
 	pre.md-fences {
