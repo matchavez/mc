@@ -9,7 +9,7 @@ a:hover {
 }
 
 code {
-  background: #222222 !important;
+  background: #001 !important;
 }
 
 #header {
@@ -56,7 +56,7 @@ a have been commented out (links).
 
 	
 	:root {
-	    --bg-color:  #000719;
+	    --bg-color:  #113;
 	    --side-bar-bg-color: #000a1b;
 	    --text-color: #eee8d5;
 	    --code-block-bg-color: #073642;
