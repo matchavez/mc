@@ -12,7 +12,7 @@ title: 'Curriculum Vitae'
 
 ### Personal Profile
 
-See my history on LinkedIn.
+See my history on [LinkedIn](linkedin.com/in/matchavez).
 
 ### Qualifications
 
