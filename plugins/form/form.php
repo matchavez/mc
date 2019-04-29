@@ -380,9 +380,21 @@ class FormPlugin extends Plugin
 
                 if (!$resp->isSuccess()) {
                     $errors = $resp->getErrorCodes();
+                    $message = $this->grav['language']->translate('PLUGIN_FORM.ERROR_VALIDATING_CAPTCHA');
+
+                    $fields = $form->value()->blueprints()->get('form/fields');
+                    foreach ($fields as $field) {
+                        $type = $field['type'] ?? 'text';
+                        $field_message = $field['recaptcha_not_validated'] ?? null;
+                        if ($type == 'captcha' && $field_message) {
+                            $message =  $field_message;
+                            break;
+                        }
+                    }
+
                     $this->grav->fireEvent('onFormValidationError', new Event([
                         'form'    => $form,
-                        'message' => $this->grav['language']->translate('PLUGIN_FORM.ERROR_VALIDATING_CAPTCHA')
+                        'message' => $message
                     ]));
 
                     $this->grav['log']->addWarning('Form reCAPTCHA Errors: [' . $uri->route() . '] ' . json_encode($errors));
@@ -525,12 +537,13 @@ class FormPlugin extends Plugin
                             throw new \RuntimeException('Form save: Unsupported RAW file format, please use either yaml or json');
                     }
 
+                    $content = $form->getData();
                     $data = [
                         '_data_type' => 'form',
                         'template' => !empty($params['template']) ? $params['template'] : null,
                         'name' => $form->getName(),
                         'timestamp' => date('Y-m-d H:i:s'),
-                        'content' => $form->getData()->toArray()
+                        'content' => $content ? $content->toArray() : []
                     ];
 
                     $file->lock();
@@ -651,12 +664,12 @@ class FormPlugin extends Plugin
     /**
      * Add a form to the forms plugin
      *
-     * @param $page_route
-     * @param $form
+     * @param string|null $page_route
+     * @param FormInterface $form
      */
-    public function addForm($page_route, $form)
+    public function addForm(?string $page_route, FormInterface $form)
     {
-        $name = $form['name'] ?? '';
+        $name = $form->getName();
 
         if (!isset($this->forms[$page_route][$name])) {
             $this->forms[$page_route][$name] = $form;
@@ -681,6 +694,9 @@ class FormPlugin extends Plugin
         } elseif (\is_string($data)) {
             $form_name = $data;
             $page_route = null;
+        } else {
+            $form_name = null;
+            $page_route = null;
         }
 
         // if no form name, use the first form found in the page
@@ -693,7 +709,7 @@ class FormPlugin extends Plugin
 
             if (!empty($this->forms[$page_route])) {
                 $forms = $this->forms[$page_route];
-                $first_form = reset($forms) ?? null;
+                $first_form = reset($forms) ?: null;
                 $form_name = $first_form['name'] ?? null;
             } else {
                 //No form on this route. Try looking up in the current page first

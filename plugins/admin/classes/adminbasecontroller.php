@@ -10,6 +10,7 @@ use Grav\Common\Media\Interfaces\MediaInterface;
 use Grav\Common\Page\Interfaces\PageInterface;
 use Grav\Common\Page\Media;
 use Grav\Common\Uri;
+use Grav\Common\User\Interfaces\UserInterface;
 use Grav\Common\Utils;
 use Grav\Common\Plugin;
 use Grav\Common\Theme;
@@ -727,9 +728,9 @@ class AdminBaseController
     }
 
     /**
-     * @param PageInterface|Data $obj
+     * @param PageInterface|UserInterface|Data $obj
      *
-     * @return PageInterface|Data
+     * @return PageInterface|UserInterface|Data
      */
     protected function storeFiles($obj)
     {
@@ -763,6 +764,8 @@ class AdminBaseController
                     } else {
                         $obj->modifyHeader($init_key, $new_data);
                     }
+                } elseif ($obj instanceof UserInterface and $key === 'avatar') {
+                    $obj->set($key, $files);
                 } else {
                     // TODO: [this is JS handled] if it's single file, remove existing and use set, if it's multiple, use join
                     $obj->join($key, $files); // stores
@@ -940,8 +943,12 @@ class AdminBaseController
             $settings = (object)$blueprints->schema()->getProperty($field);
         } else {
             $page = null;
-            $obj = $this->grav[$type]->get(Utils::substrToString($blueprint, '/'));
-            $settings = (object)$obj->blueprints()->schema()->getProperty($field);
+            if ($type === 'user') {
+                $settings = (object)$this->admin->blueprints($blueprint)->schema()->getProperty($field);
+            } else {
+                $obj = $this->grav[$type]->get(Utils::substrToString($blueprint, '/'));
+                $settings = (object)$obj->blueprints()->schema()->getProperty($field);
+            }
         }
 
         // Get destination

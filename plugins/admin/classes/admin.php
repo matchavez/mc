@@ -9,6 +9,7 @@ use Grav\Common\GPM\GPM;
 use Grav\Common\GPM\Licenses;
 use Grav\Common\GPM\Response;
 use Grav\Common\Grav;
+use Grav\Common\Helpers\YamlLinter;
 use Grav\Common\Language\LanguageCodes;
 use Grav\Common\Page\Collection;
 use Grav\Common\Page\Interfaces\PageInterface;
@@ -650,19 +651,11 @@ class Admin
             $obj->file($file);
 
             $data[$type] = $obj;
-        } elseif (preg_match('|users/|', $type)) {
+        } elseif (preg_match('|users?/|', $type)) {
             /** @var UserCollectionInterface $users */
-            $users = $this->grav['users'];
+            $users = $this->grav['accounts'];
 
-            $obj = $users->load(preg_replace('|users/|', '', $type));
-            $obj->update($this->cleanUserPost($post));
-
-            $data[$type] = $obj;
-        } elseif (preg_match('|user/|', $type)) {
-            /** @var UserCollectionInterface $users */
-            $users = $this->grav['users'];
-
-            $obj = $users->load(preg_replace('|user/|', '', $type));
+            $obj = $users->load(preg_replace('|users?/|', '', $type));
             $obj->update($this->cleanUserPost($post));
 
             $data[$type] = $obj;
@@ -714,15 +707,14 @@ class Admin
      * @param array $post
      * @return array
      */
-    protected function cleanUserPost($post)
+    public function cleanUserPost($post)
     {
         // Clean fields for all users
         unset($post['hashed_password']);
 
         // Clean field for users who shouldn't be able to modify these fields
         if (!$this->authorize(['admin.user', 'admin.super'])) {
-            unset($post['access']);
-            unset($post['state']);
+            unset($post['access'], $post['state']);
         }
 
         return $post;
@@ -1678,6 +1670,14 @@ class Admin
 
         $reports['Grav Security Check'] = $this->grav['twig']->processTemplate('reports/security.html.twig', [
             'result' => $result,
+        ]);
+
+        // Linting Issues
+
+        $result = YamlLinter::lint();
+
+        $reports['Grav Yaml Linter'] = $this->grav['twig']->processTemplate('reports/yamllinter.html.twig', [
+           'result' => $result,
         ]);
 
         // Fire new event to allow plugins to manipulate page frontmatter
