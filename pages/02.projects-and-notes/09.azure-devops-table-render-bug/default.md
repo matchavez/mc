@@ -2,7 +2,9 @@
 title: 'Azure DevOps Indented Table Rendering Bug'
 ---
 
- ## Bug Report - Azure DevOps markdown rendering of tables does not respect indented opening pipes
+!!! GOOD NEWS! Microsoft says, "A fix for this issue has been internally implemented and is being prepared for release. We'll update you once it becomes available."
+
+## Bug Report - Azure DevOps markdown rendering of tables does not respect indented opening pipes
 
 !!!! Get the [raw markdown](http://matchavez.com/user/pages/02.projects-and-notes/10.azure-devops-table-render-bug/default.md) of this page
 
