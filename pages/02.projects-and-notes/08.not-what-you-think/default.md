@@ -29,6 +29,6 @@ Today, interchanging these two can be disaster when trying to describe time. UTC
 
 ##### Bonus fact about time:
 
-Did you know that the earth rotates exactly 365.999 times per year? It's a scientific fact. So why do we have 365 days and a leap-year day every quadrennial? The answer is that each day the earth rotates aproximately 361º, but it's a rotation that comes back where the same point on earth is pointing to the sun. That means you get a little more than one rotation since earth has gone on about 0.003 of its annual trip around the sun. It's also the basic reason that stars shift about 4 minutes per day as to when you can see them in the same place.
+Did you know that the earth rotates exactly 365.999 times per year? It's a scientific fact. So why do we have 365 days and a leap-year day every quadrennial? The answer is that each day the earth rotates aproximately 361º, as it's a rotation that comes back where the same point on earth is pointing to the sun. That means you get a little more than one rotation since earth has gone on about 0.003 of its annual trip around the sun. It's also the basic reason that stars shift about 4 minutes per day as to when you can see them in the same place.
 
 If you wanted to see an exact rotation as it relates to distant objects, it's called a "sidereal day" instead of what we use as a "solar day". Learn more by looking up "sidereal" and "UT1 vs UTC".
