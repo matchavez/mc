@@ -12,6 +12,7 @@ pwd_regex: '(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}'
 intl_enabled: true
 languages:
   supported: {  }
+  default_lang: null
   include_default_lang: true
   pages_fallback_only: false
   translations: true
@@ -87,6 +88,8 @@ cache:
   driver: auto
   prefix: g
   purge_at: '0 4 * * *'
+  clear_at: '0 3 * * *'
+  clear_job_type: standard
   clear_images_by_default: true
   cli_compatibility: false
   lifetime: 604800
@@ -134,6 +137,7 @@ images:
   cache_perms: '0755'
   debug: false
   auto_fix_orientation: false
+  seofriendly: false
 media:
   enable_media_timestamp: false
   unsupported_inline_types: {  }
