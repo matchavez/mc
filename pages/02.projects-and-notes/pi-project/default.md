@@ -8,3 +8,5 @@ title: 'Pi Project'
 - Enable SSH
 - Remember to `sudo chown www-data:www-data -R /var/www/html/'
 - Also, `sudo a2enmod rewrite`
+- Set pi to www-data group
+- 
