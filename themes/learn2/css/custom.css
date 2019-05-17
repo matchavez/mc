@@ -26,7 +26,7 @@ a:hover {
 }
 
 code {
-  background: #112 !important;
+  background: #001 !important;
   font-size: 0.8em !important;
   font-weight: bold !important;
   color: lime !important;
@@ -45,7 +45,7 @@ code {
 }
 
 #top-bar {
-	background: #bcc6ff;
+	background: #ffffe6;
 }
 
 th {
@@ -53,8 +53,23 @@ th {
 }
 
 .notices {
-	padding: 6px !important;
-	background: #fff9d5 !important;
+	padding: 4px 4px 4px 20px !important;
+}
+
+.notices.red {
+	background: #fee !important;
+}
+
+.notices.blue {
+	background: #eef !important;
+}
+
+.notices.yellow {
+	background: #ffe !important;
+}
+
+.notices.green {
+	background: #efe !important;
 }
 
 
@@ -64,7 +79,7 @@ th {
 }
 
 .copy-to-clipboard {
-	background-color: #000;
+	background-color: #eee;
 	
 }
 
@@ -176,28 +191,32 @@ h6 code {
 }
 h1 {
     padding-bottom: .3em;
-    font-size: 2.25em;
+    font-size: 40px;
     line-height: 1.2;
     border-bottom: 1px solid #eee;
 }
 h2 {
    padding-bottom: .3em;
-    font-size: 1.75em;
+    font-size: 32px;
     line-height: 1.225;
     border-bottom: 1px solid #eee;
+    color: #004;
 }
 h3 {
-    font-size: 1.5em;
+    font-size: 28px;
     line-height: 1.43;
+    color: #010;
 }
 h4 {
-    font-size: 1.25em;
+    font-size: 24px;
+    color: #400;
 }
 h5 {
-    font-size: 1em;
+    font-size: 20px;
+    color: #a00;
 }
 h6 {
-   font-size: 1em;
+   font-size: 16px;
     color: #777;
 }
 p,
