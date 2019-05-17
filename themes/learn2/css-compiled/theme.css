@@ -330,12 +330,12 @@ textarea, input[type="email"], input[type="number"], input[type="password"], inp
     margin: 0; }
 
 body {
-  font-family: "Muli", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+  font-family: font-family: "SF Mono", "Segoe UI Mono", "Roboto Mono", Menlo, Courier, monospace;
   letter-spacing: -0.03rem;
   font-weight: 400; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Montserrat", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+  font-family: font-family: "SF Mono", "Segoe UI Mono", "Roboto Mono", Menlo, Courier, monospace;
   font-weight: 400;
   text-rendering: optimizeLegibility;
   line-height: 150%;
