@@ -16,7 +16,7 @@ a:hover, a:visited, a:link, a:active
 }
 
 a:hover {
-    background-color: #bbd;
+    background-color: #eef;
     font-size: large;
 }
 
@@ -31,12 +31,28 @@ code {
   background: #fff;
 }
 
+#header.input {
+	background: fuchsia !important;
+}
+
+#sidebar {
+	background-color: #fff !important;
+}
+
 #sidebar ul li.active > a {
-	background-color: #bb9393;
+	background-color: #eee;
 }
 
 #sidebar ul.topics > li > a b {
-	color: #f22;
+	color: #fff;
+}
+
+#sidebar ul li a span {
+	color: #02f !important;
+}
+
+#sidebar ul.topics > li.parent, #sidebar ul.topics > li.active {
+	background-color: #fff !important;
 }
 
 #top-bar {
@@ -78,6 +94,10 @@ th {
 	
 }
 
+.searchbox {
+	background: #678;
+}
+
 /*
 Everything above here is custom written.
 This is github-style
@@ -85,7 +105,7 @@ a have been commented out (links).
 */
 
 :root {
-    --side-bar-bg-color: #fafafa;
+    --side-bar-bg-color: #ddd;
     --control-text-color: #ddd;
 }
 
