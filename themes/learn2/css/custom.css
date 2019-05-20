@@ -17,7 +17,6 @@ a:hover, a:visited, a:link, a:active
 
 a:hover {
     background-color: #eef;
-    font-size: large;
 }
 
 code {
@@ -39,16 +38,22 @@ code {
 	background-color: #fff !important;
 }
 
+
+
 #sidebar ul li.active > a {
 	background-color: #eee;
 }
 
 #sidebar ul.topics > li > a b {
-	color: #fff;
+	color: #f6f6f6;
 }
 
 #sidebar ul li a span {
-	color: #02f !important;
+	color: #00f !important;
+}
+
+#sidebar ul li b span {
+	color: #0ff !important;
 }
 
 #sidebar ul.topics > li.parent, #sidebar ul.topics > li.active {
