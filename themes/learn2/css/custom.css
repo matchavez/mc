@@ -9,6 +9,9 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
  }
 
+cite {
+	text-align: right;
+}
 
 a:hover, a:visited, a:link, a:active
 {
@@ -16,7 +19,8 @@ a:hover, a:visited, a:link, a:active
 }
 
 a:hover {
-    background-color: #eef;
+	color: #00f !important;
+    background-color: #ddd !important;
 }
 
 code {
@@ -164,7 +168,7 @@ body {
 }
 
 a {
-    color: #4183C4;
+    color: #22f;
 }
 h1,
 h2,

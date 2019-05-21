@@ -2,7 +2,7 @@
 title: Typography
 ---
 
-!!! Most of the changes in typographical theming are taken from a modified theme of Typora. The Typora .css is available at [my GitHub](https://github.com/matchavez/TyporaThemes/).
+!!! Most of the changes in typographical theming are taken from a modified theme of Typora. The Typora .css is available at [my GitHub](https://github.com/matchavez/TyporaThemes/). If you're looking for the current theme, the site [custom.css](https://github.com/matchavez/mc/blob/master/themes/learn2/css/custom.css) can also be found there.
 
 ---
 
@@ -79,7 +79,7 @@ Text<sub>Subscripted</sub> `<sub>`
 
 > “Inside every cynical person, there is a disappointed idealist.”
 
-– George Carlin
+<cite>– George Carlin</cite>
 
 ---
 

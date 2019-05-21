@@ -2,7 +2,7 @@
 title: Welcome
 ---
 
-![](IMG_9324.jpg)
+![](IMG_9324.jpg)<cite>Photo taken by me, near Hanmer Springs, New Zealand</cite>
 
 It's not a blog.
 
