@@ -6,8 +6,7 @@ title: Equipment
 
 | Club           | Club Model  | Club Shaft               | Shaft Detail  | Current Loft  | Swing Weight  | Length |
 | -------------- | ----------- | ------------------------ | ------------- | ------------- | ------------- | ------ |
-| **_14 in play_** |
-| Driver     | G400 LST    | Mitsubishi KuroKage TiNi | 65g X           | 10º           | D4            | 45.25" |
+| Driver (10) | G400 LST    | Mitsubishi KuroKage TiNi | 65g X           | 10º           | D4            | 45.25" |
 | Fairway (16)   | G SFT       | Ping Tour 80             | Stiff	      | 16º			 | D3	    	 | 42.5"  |
 | Hybrid (19) | G Series | Ping Tour 90 | XS | 19º | D1 | 40.25" |
 | 4-Iron         | i500        | Nippon Modus3            | 105 S         | 21º           | D2            | 38.875"|
