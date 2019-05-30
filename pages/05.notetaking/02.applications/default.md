@@ -14,7 +14,7 @@ For iOS, it's the best application I've found for working with markdown files. I
 
 #### [FSNotes](https://fsnot.es)
 
-FSNotes is the closest app to a winner for me. It handles files directly as .md, so you can select a folder and directly edit markdown. There is a matching iOS app as well. All of this is good, and it's even free if you can `brew`. However there are a few shortcomings for me personally... the real-time editing of Typora is better, and the iOS app can't handle Dropbox. Those shortcomings might even be advantages to you, so check it out.
+FSNotes is the closest app to a winner for me. It handles files directly as .md, so you can select a folder and directly edit markdown. There is a matching iOS app as well. All of this is good, and it's even free if you can `brew`. However there are a few shortcomings for me personally... the real-time editing of Typora is better, and you can't have nested folders. Those shortcomings might even be advantages to you, so check it out.
 
 #### [Agenda](https://www.agenda.com)
 
@@ -22,6 +22,10 @@ A fantastic full ecosystem within the Apple world. It integrates seemlessly, syn
 - It's not "real" markdown
 - Code fences don't pigment
 Also, see what I say about json.
+
+##### Special note about Agenda:
+
+Despite the fact that Agenda is not my perfect notetaking app, it's worth sharing that for a paid product, I absolutely love their model. They sell a "true subscription". Unlike other software that they call a sub, but really you _rent_ it for the time you use it, Agenda says it's yours forever. You will have to renew after a year if you want any new features, but that's how it should be. When you had a magazine subscription, you kept the actual paper when you stopped paying. If you lose the software after you stop paying, that's renting, and I don't support any app that works that way.
 
 #### [Quiver](http://happenapps.com)
 
@@ -33,7 +37,7 @@ A great free service, you're limited to two devices when free. It does a lot of 
 
 #### [Bear](https://bear.app)
 
-It's a json-type app, and it costs per month. Very clean, but lacks features in a way they call "minimalistic". Whatever.
+It's a json-type app, and it costs per month. Very clean, but lacks features in a way they call "minimalistic". Whatever. Also, it's another _rental_.
 
 #### [MWeb](https://www.mweb.im)
 
