@@ -1,4 +1,4 @@
-last_checked: 1559203648
+last_checked: 1560123651
 data:
   -
     title: 'Grav 1.6 Released!'
@@ -9,17 +9,17 @@ data:
     title: 'Important Theme Updates'
     url: 'https://getgrav.org/blog/important-theme-updates'
     date: 1553169300
-    nicetime: '2 months ago'
+    nicetime: '3 months ago'
   -
     title: 'All RocketTheme Grav Themes 50% Off for Black Friday'
     url: 'https://getgrav.org/blog/rockettheme-blackfriday-2018'
     date: 1542790800
-    nicetime: '6 months ago'
+    nicetime: '7 months ago'
   -
     title: 'We''re Moving Chat from Slack to Discord'
     url: 'https://getgrav.org/blog/chat-moving-to-discord'
     date: 1542203100
-    nicetime: '6 months ago'
+    nicetime: '7 months ago'
   -
     title: 'RocketTheme''s Halloween Sale is Going on Right Now'
     url: 'https://getgrav.org/blog/rockettheme-halloween-2018'
@@ -29,7 +29,7 @@ data:
     title: 'Git-Sync 2.0'
     url: 'https://getgrav.org/blog/git-sync-2.0'
     date: 1539604800
-    nicetime: '7 months ago'
+    nicetime: '8 months ago'
   -
     title: 'Vote for Grav in the 2018 CMS Critic People''s Choice Awards'
     url: 'https://getgrav.org/blog/cms-critic-award-finalists-2018'
