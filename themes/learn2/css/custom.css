@@ -1,8 +1,7 @@
 
 body {
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
-  letter-spacing: -0.04rem;
-  font-weight: 500;
+  font-family: "National Park", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+  font-weight: 400;
   text-rendering: optimizeLegibility;
   background-color: #fffff4;
  }
@@ -146,6 +145,14 @@ a have been commented out (links).
     font-style: italic;
     font-weight: bold;
 }
+
+@font-face {
+	font-family: "National Park";
+	src: url(../fonts/nationalpark-regular.otf);
+	font-style: normal;
+	font-weight: normal;
+}
+
 
 html {
     font-size: 16px;
