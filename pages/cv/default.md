@@ -11,7 +11,7 @@ title: 'Curriculum Vitae'
 
 ###### _See my profile on [LinkedIn](linkedin.com/in/matchavez)._
 
-I'm an experienced manager capable of streamlining processes and improving quality and outcomes in most environments. I'm looking for an opportunity to expand my responsibilities, and use multiple areas of experience to bridge gaps and improve.
+I'm an experienced and adaptable manager capable of streamlining processes and improving quality and outcomes in challenging environments. I'm looking for an opportunity to expand my responsibilities, and use multiple areas of experience to bridge gaps and improve.
 
 #### Quality and Change/Release Manager, Cyber @ Telstra
 
