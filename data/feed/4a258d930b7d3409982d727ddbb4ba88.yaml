@@ -1,4 +1,4 @@
-last_checked: 1560136011
+last_checked: 1560299838
 data:
   -
     title: 'Grav 1.6 Released!'
@@ -44,9 +44,9 @@ data:
     title: 'macOS 10.14 Mojave Apache Setup: Upgrading Homebrew'
     url: 'https://getgrav.org/blog/macos-mojave-apache-upgrade-homebrew'
     date: 1537876800
-    nicetime: '8 months ago'
+    nicetime: '9 months ago'
   -
     title: 'macOS 10.14 Mojave Apache Setup: SSL'
     url: 'https://getgrav.org/blog/macos-mojave-apache-ssl'
     date: 1537873380
-    nicetime: '8 months ago'
+    nicetime: '9 months ago'
