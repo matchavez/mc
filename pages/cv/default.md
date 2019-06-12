@@ -19,30 +19,22 @@ See my history on [LinkedIn](linkedin.com/in/matchavez).
 - 
   ![Telstra](https://media.licdn.com/dms/image/C4E0BAQG9Q9rknf3vKQ/company-logo_400_400/0?e=1568246400&v=beta&t=kzYgEtBVe_CYTt6RLiMtn40q4-G69xa2SPBreFFzFCM)
 
-  ### Quality, Process, Change, and Release Manager - Global Products / Cyber
+### Quality, Process, Change, and Release Manager - Global Products / Cyber
 
-  #### Company NameTelstra
 
-  #### Dates EmployedSep 2016 – Present
+Dates Employed: Sep 2016 – Present
+Location: Christchurch, New Zealand
 
-  #### Employment Duration2 yrs 10 mos
-
-  #### LocationChristchurch, New Zealand
-
-  I run our Change Advisory Board, and also handle Documentation management and JIRAadministration. I also make sure that Quality and testing are handled properly.
+I run our Change Advisory Board, and handle Documentation management and JIRA administration. I also make sure that Quality and testing are handled properly.
 
   
 
 - ![Self Employed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-  ### Independent Developer and SMB Consultant
+### Independent Developer and SMB Consultant
 
-  #### Company NameSelf Employed
-
-  #### Dates Employed2014 – 2016
-
-  #### Employment Duration2 yrs
-
+Dates: 2014 – 2016
+Location: Dallas - Fort Worth, Texas
   
 
 - ![CVS Caremark Corporation](https://media.licdn.com/dms/image/C560BAQHnlwvgmFR7wQ/company-logo_400_400/0?e=1568246400&v=beta&t=mk86YQWnx1WL2PU8XNqn6ZH2w2zZXt4P5M8hhEQeK9I)
