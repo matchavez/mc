@@ -14,12 +14,14 @@ title: 'Curriculum Vitae'
 
 See my history on [LinkedIn](linkedin.com/in/matchavez).
 
+I'm an experienced manager capable of streamlining processes and improving quality and outcomes in most environments. I'm looking for an opportunity to expand my responsibilities, and use multiple areas of experience to bridge gaps and improve.
+
 ### Quality, Process, Change, and Release Manager - Global Products / Cyber, @ Telstra
 
-Dates Employed: Sep 2016 – Present
-Location: Christchurch, New Zealand
+###### Dates Employed: Sep 2016 – Present
+###### Location: Christchurch, New Zealand
 
-I run our Change Advisory Board, and handle Documentation management and JIRA administration. I also make sure that Quality and testing are handled properly.
+Currently, I run our quality and release program for proprietary network security software. It's my job to ensure general quality, acceptance, and safe deployment within our operational teams. While here, I've also taken on test management, and automated the documentation process for our technical writer. I've also chaired our Change Advisory Board for risk assessment of deployments, working with our teams in Melbourne and Sydney. As part of maintaining and improving the processes for releases, and our mature agile approach, I administer our JIRA and Confluence instances.
 
 
 ### Independent Developer and SMB Consultant
