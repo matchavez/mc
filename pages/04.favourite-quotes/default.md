@@ -114,7 +114,7 @@ title: 'Favourite Quotes'
 
 > “Life is like riding a bicycle. To keep your balance, you must keep moving
 > 
-> <cite>– Albert Einstein</cite>
+> <cite>Albert Einstein</cite>
 
 ---
 
