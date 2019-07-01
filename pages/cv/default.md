@@ -16,7 +16,7 @@ I am an experienced and adaptable manager capable of streamlining processes, imp
 #### Quality and Change/Release Manager, Cyber @ Telstra
 
 ###### Dates Employed: Sep 2016 – Present
-###### Location: Christchurch, New Zealand
+Location: Christchurch, New Zealand
 
 Currently, I run our Quality and Release programs for proprietary network security software. It's my job to ensure general quality, acceptance, and safe deployment within our operational teams. I have implemented our current test management system, and also automated the documentation process for our technical writer. I chair our Change Advisory Board for risk assessment of deployments, working with our teams in Melbourne and Sydney. As part of maintaining and improving the processes for releases, and our mature agile approach, I administer our JIRA and Confluence instances.
 
@@ -43,14 +43,14 @@ This was a contract position to manage and test their legacy system for pricing 
 Dates Employed: 2008 – 2013, Volunteered annually from 2001-2007.
 Location: Indianapolis, Indiana
 
-After eight years of volunteering, I accepted a full time position to manage the entire company’s technology. I budgeted and ran the live streaming operation and generated nearly $1M annual revenue in various digital forms. I had several employees, interns, and volunteers to assist running the production and maintenance of the platform we created. This was presented in 2012 to a conference as an example of how to lower costs without compromising quality. I reported directly to the CEO, and provided reporting for the DCI Board.
+After eight years of volunteering, I accepted a full time position to manage the company’s technology strategy. I budgeted and ran the live streaming operation and generated nearly $1M annual revenue. I had several employees, interns, and volunteers to assist running the production and maintenance of the platform we created. This was presented in 2012 to a live-streaming conference as an example of how to lower costs without compromising quality. I reported directly to the CEO, and provided reporting for the DCI Board.
 
 #### Senior Test Manager / Consultant @ Quardev
 
 Dates Employed: 2007 – 2008
 Location: Greater Seattle Area
 
-This was a contract position to manage the system update and testing of a central database for a dental insurance company. 
+This was a contract position to manage the system update and testing of a central database for a dental insurance company. This included managing six contractors at once, with at least three offshore. 
 
 
 #### Solutions Architect @ Lionbridge
@@ -58,14 +58,14 @@ This was a contract position to manage the system update and testing of a centra
 Dates Employed: 2004 – 2007
 Location: Greater Seattle Area
 
-As the “SA”, I was responsible for business development with Microsoft for testing services. I was responsible for about $4M in revenue, including the design and implementation of a $1.1M deal to test Office 2007 in Ballina, Ireland. Critical to this position was cultivating relationships with Microsoft directors to ensure completeness and to set expectations for testing programs. Most of this position was work-from-home, independently managing the content output, and the quality delivered to our sales representatives.
+As the team architect, I was responsible for providing technical expertise to our business development with Microsoft. I was responsible for about $4M in revenue, including the design and implementation of a $1.1M deal to test Office 2007 in Ballina, Ireland. Critical to this position was cultivating relationships with Microsoft directors to ensure completeness and to set expectations for testing programs.
 
 
 #### Software Development Engineer in Test @ Microsoft
 Dates Employed: 2004
 Location: Redmond, Washington
 
-This was a contract position to test camera image creation software.
+This was a contract position to test camera image codec software, manually testing and automating runs of large volume tests.
 
 
 #### Quality Engineer - Audition @ Adobe
@@ -73,7 +73,8 @@ This was a contract position to test camera image creation software.
 Dates Employed: 2001 – 2004
 Location: Scottsdale, Arizona and Seattle, Washington
 
-I worked in a team testing Adobe’s audio software, Adobe Audition. I specialised in testing mp3 encoding and multiple language installations. We released four products in that time, and converted project management to “agile”.
+I worked in a team testing Adobe’s audio software, Adobe Audition. I specialised in testing mp3/mp4 encoding and multiple Windows language installations. I completed four full box releases in that period, and in that time we led the conversion of the media teams at Adobe into agile methodologies.
+
 
 #### Stockbroker (and Intern) @ Charles Schwab
 
@@ -87,8 +88,8 @@ After starting as an intern in 1999, I was tasked with doing updates and managem
 
 ### Education Summary
 
-Bachelor of Science in Business Administration, majoring in Finance
-Northern Arizona University (2000).
+Bachelor of Science in Business Administration, majoring in Finance @ Northern Arizona University (2000)
+- Student representative of the university's IT Steering Committee
 
 ### Interests
 
