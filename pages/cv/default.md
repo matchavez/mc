@@ -8,15 +8,16 @@ title: 'Curriculum Vitae'
 ---
 
 ### Personal Profile
-
 ###### _See my profile on [LinkedIn](linkedin.com/in/matchavez)._
 
-I am an experienced and adaptable manager capable of streamlining processes, implementing agile tools, and improving quality and outcomes in challenging environments. I'm looking for an opportunity to expand my responsibilities, and use multiple areas of experience to bridge gaps and drive improvement.
+I am an experienced and adaptable manager capable of streamlining processes, implementing agile tools, and improving quality and outcomes in challenging environments.
+
+### Career Experience
 
 #### Quality and Change/Release Manager, Cyber @ [Telstra](https://security.telstra.com/login)
 ###### Sep 2016 – Present / Christchurch, New Zealand
 
-Currently, I run our Quality and Release programs for proprietary network security software. It's my job to ensure general quality, acceptance, and safe deployment within our operational teams. I have implemented our current test management system, and also automated the documentation process for our technical writer. I chair our Change Advisory Board for risk assessment of deployments, working with our teams in Melbourne and Sydney. As part of maintaining and improving the processes for releases, and our mature agile approach, I administer our JIRA and Confluence instances.
+Currently, I run the Quality and Release programs for proprietary network security software. It's my job to ensure general quality, acceptance, and safe deployment within our operational teams. I have implemented our current test management system, and also automated the documentation process for our technical writer. I chair our Change Advisory Board for risk assessment of deployments, working with our teams in Melbourne and Sydney. As part of maintaining and improving the processes for releases, and our mature agile approach, I administer our JIRA and Confluence instances.
 
 
 #### Independent Developer and SMB Consultant
@@ -38,6 +39,7 @@ This was a contract position to manage and test their legacy system for pricing 
 ###### 2008 – 2013 (Volunteered annually from 2001-2008) / Indianapolis, Indiana
 
 After eight years of volunteering, I accepted a full time position to manage the company’s technology strategy. I budgeted and ran the live streaming operation and generated nearly $1M annual revenue. I had several employees, interns, and volunteers to assist running the production and maintenance of the platform we created. This was presented in 2012 to a live-streaming conference as an example of how to lower costs without compromising quality. I reported directly to the CEO, and provided reporting for the DCI Board.
+ <!--- Add more here --->
 
 #### Senior Test Manager / Consultant @ [Quardev](https://www.quardev.com)
 ###### 2007 – 2008 / Greater Seattle Area
@@ -61,12 +63,6 @@ This was a contract position to test camera image codec software, manually testi
 ###### 2001 – 2004 / Scottsdale, Arizona and Seattle, Washington
 
 I worked in a team testing Adobe’s audio software, Adobe Audition. I specialised in testing mp3/mp4 encoding and multiple Windows language installations. I completed four full box releases in that period, and in that time we led the conversion of the media teams at Adobe into agile methodologies.
-
-
-#### Stockbroker (and Intern) @ [Charles Schwab](https://www.schwab.com)
-###### 1999 – 2001 / Phoenix, Arizona
-
-After starting as an intern in 1999, I was tasked with doing updates and management training for Y2K. After the internship I was offered a full time position after graduation, where I was responsible for equity and options trading. I provided advice on request for portfolio allocations, risk, and retirement planning, along with analysis of public financial reports.
 
 ---
 
