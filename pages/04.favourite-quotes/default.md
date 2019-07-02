@@ -2,6 +2,10 @@
 title: 'Favourite Quotes'
 ---
 
+> "I refuse to join any club that would have me as a member."
+>
+> <cite>Groucho Marx</cite>
+
 ---
 
 > “Power concedes nothing without a demand. It never did and it never will. Find out just what any people will quietly submit to and you have found out the exact measure of injustice and wrong which will be imposed upon them, and these will continue till they are resisted with either words or blows, or with both. **The limits of tyrants are prescribed by the endurance of those whom they oppress.**”
