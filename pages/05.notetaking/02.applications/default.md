@@ -10,11 +10,11 @@ Typora for me is the best application for writing Markdown on MacOS. Many applic
 
 #### [1Writer](http://www.1writerapp.com)
 
-For iOS, it's the best application I've found for working with markdown files. It will sync with iCloud and Dropbox, and it will preview markdown using [GFM](https://github.github.com/gfm/).
+For iOS, it's the best application I've found for working with markdown files. It will sync with iCloud and Dropbox, and it will preview markdown using [GFM](https://github.github.com/gfm/). The only downside short of being Typora and real-time rendering is that 1Writer does not "pigment" code. Thus if you write a fence for some code, and you specify the language according to GFM, you won't get colour-keyed words.
 
 #### [FSNotes](https://fsnot.es)
 
-FSNotes is the closest app to a winner for me. It handles files directly as .md, so you can select a folder and directly edit markdown. There is a matching iOS app as well. All of this is good, and it's even free if you can `brew`. However there are a few shortcomings for me personally... the real-time editing of Typora is better, and you can't have nested folders. Those shortcomings might even be advantages to you, so check it out.
+FSNotes is the closest app to a winner for me. It handles files directly as .md, so you can select a folder and directly edit markdown. There is a matching iOS app as well. All of this is good, and it's even free if you can `brew`. However there are a few shortcomings for me personally... the real-time editing of Typora is better, and you can't have nested folders. Those shortcomings might even be advantages to you, so check it out. FSNotes does do code colouring on iOS, too.
 
 #### [Agenda](https://www.agenda.com)
 
