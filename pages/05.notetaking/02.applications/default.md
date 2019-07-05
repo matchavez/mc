@@ -21,7 +21,8 @@ FSNotes is the closest app to a winner for me. It handles files directly as .md,
 A fantastic full ecosystem within the Apple world. It integrates seemlessly, syncs well, and has a lot of great features. Where this doesn't work for me is two areas:
 - It's not "real" markdown
 - Code fences don't pigment
-Also, see what I say about json.
+
+Also, see what I say about json. It's not "locked in", but you do have to purchase to export markdown.
 
 ##### Special note about Agenda:
 
