@@ -2,7 +2,7 @@ en:
     THEME_LEARN2_GITHUB_EDIT_THIS_PAGE: Edit
     THEME_LEARN2_GITHUB_NOTE: Found errors? Think you can improve this documentation?
     THEME_LEARN2_CLEAR_HISTORY: Clear checkmarks
-    THEME_LEARN2_BUILT_WITH_GRAV: I built this with <a href="http://getgrav.org">Grav</a> - <a href="/admin">Admin</a> - <a href="http://chavez.nz:8080">Jira</a>
+    THEME_LEARN2_BUILT_WITH_GRAV: I built this with <a href="http://getgrav.org">Grav</a> - <a href="/admin">Admin</a> - <a href="http://chavez.nz:8080/secure/Dashboard.jspa">Jira</a>
     THEME_LEARN2_SEARCH_DOCUMENTATION: " "
 cn:
     THEME_LEARN2_GITHUB_EDIT_THIS_PAGE: 编辑此页
