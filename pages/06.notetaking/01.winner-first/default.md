@@ -51,7 +51,7 @@ Part of the GFM upgrade for Markdown is that it allows checkboxes:
 
 ##### Easy Transfer
 
-The ease at which content can transfer is also very helpful. Whether it's notes, or in GitHub or Azure DevOps (Fire whoever named it that), or in a system like this website using Grav, Markdown content can be transferred in and out with all of its formatting fully intact. 
+The ease at which content can transfer is also very helpful. Whether it's notes, or in GitHub or Azure DevOps (Fire the marketing team who named it that), or in a system like this website using Grav, Markdown content can be transferred in and out with all of its formatting fully intact. 
 
 ---
 
