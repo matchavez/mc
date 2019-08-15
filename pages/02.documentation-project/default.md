@@ -38,6 +38,6 @@ So what you're doing is:
 
 Let's figure out which text editor you like, and we'll go from there:
 
-I LIKE Atom
+[I LIKE Atom](i-like-atom)
 
-I LIKE VSCode
+[I LIKE VSCode](i-like-vscode)
