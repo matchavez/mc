@@ -23,38 +23,49 @@ How it works is you make a **script** for each document manifest. I know this so
 For Linux or Mac, you'll create what's called a bash script, or otherwise known as a shell script. It's a very simple set of instructions for your operating system. It will say to it, in short, "take the following files and assemble them in this order into one compiled file".
 
 ```sh
-``` bash {cmd=true}
-#!/bin/bash
-# Concatenation script for a document map
-cat \
-chapter_one.md \
-chapter_two.md \
-chapter_three.md \
-> complete_doc.md
+
+        ``` bash {cmd=true}
+        #!/bin/bash
+        # Concatenation script for a document map
+        cat \
+        chapter_one.md \
+        chapter_two.md \
+        chapter_three.md \
+        > complete_doc.md
+        ` ``
+
 ```
 
-Simply, create a text file that's a markdown file like all the others you'll make, and put this text in it.
+Simply, create a text file that's a markdown (.md) file like all the others you'll make, and put this text in it. 
+
+(Wait, not a .sh? No, because we're going to execute it inline. It can be a .sh still. That's why the ` ``` bash {cmd=true}` also. More to come.)
+
 - Chapter names for whatever you want for files
 - Rename the "complete_doc" into whatever you want the new file called
 - Leave the cat space backslash alone; that's the "cat" command telling the shell to concatenate
 - Leave a space and backslash after each for readability
 - Do not add any broken lines between unless you add a backslash
+- The closing three backticks have spaces between here for display. Yours should not.
 
-!!!! It should be noted that anyone with bash experience will see that this is a one line command, but it's stretched for legibility and editing purposes. Technically, this could just be ` cat one.md two.md three.md > summed.md` and work, but it's not as easy that way.
+!!! It should be noted that anyone with bash experience will see that this is a one line command, but it's stretched for legibility and editing purposes. Technically, this could just be ` cat one.md two.md three.md > summed.md` and work, but it's not as easy that way.
 
 When you do this, we'll later on execute this script. Each time you run it, it will write or **overwrite** the existing version of the document, so be aware that if you want to maintain an older version, etc., this process will "clobber" the existing file.
 
+---
 
 ## Windows
 
 For Windows, you'll create what's called a batch script. It's a very simple set of instructions for your operating system. It will say to it, in short, "take the following files and assemble them in this order into one compiled file".
 
-``` batch
-copy ^
-chapter1.md + ^
-chapter2.md + ^
-chapter3.md ^
-combined_doc.md
+```sh
+
+		copy ^
+        chapter1.md + ^
+        chapter2.md + ^
+        chapter3.md ^
+        combined_doc.md
+
+
 ```
 
 I named these a little differently from the Linux/Mac script only to distinguish between the files. Simply, create a text file that's a markdown file like all the others you'll make, and put this text in it.
@@ -68,3 +79,6 @@ I named these a little differently from the Linux/Mac script only to distinguish
 
 When you do this, we'll later on execute this script. Each time you run it, it will write or **overwrite** the existing version of the document, so be aware that if you want to maintain an older version, etc., this process will "clobber" the existing file.
 
+---
+
+Now, go [get the plugin...](../get-the-plugin)
