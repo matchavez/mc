@@ -30,7 +30,7 @@ So what you're doing is:
 
 .md   |
 
-.md    |--->  script in Atom/VSCode  -->  combined document  --> plugin for style --> output PDF or HTML
+.md    |--->  script to combine document --> render using plugin for style --> output PDF or HTML
 
 .md   |
 
