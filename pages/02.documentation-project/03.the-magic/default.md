@@ -79,6 +79,29 @@ I named these a little differently from the Linux/Mac script only to distinguish
 
 When you do this, we'll later on execute this script. Each time you run it, it will write or **overwrite** the existing version of the document, so be aware that if you want to maintain an older version, etc., this process will "clobber" the existing file.
 
+! Don't forget if you're using windows, it's a backslash. 🙂 
+
 ---
+
+##### Advice for file setup
+
+Your setup matters! If you abstract your artifacts from your documents, make sure the /artifacts (or /images or whatever) folder is equal to your shortest path document. This will ensure relative links will work with multiple document mappings.
+
+```
+/docs
+  - 1.md
+  - 2.md
+
+/other_docs
+  - 3.md
+  - 4.md
+
+/artifacts
+  - image.jpg
+  - graphic.png
+```
+
+##### If you place the artifact in the organisation path (like an image within `/other_docs` in the example), it risks not working if a link within an .md to an image/artifact/file isn't absolute. This will result in broken paths!
+
 
 Now, go [get the plugin...](../get-the-plugin)
