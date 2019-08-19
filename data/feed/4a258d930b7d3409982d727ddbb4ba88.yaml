@@ -1,4 +1,4 @@
-last_checked: 1565922223
+last_checked: 1566191171
 data:
   -
     title: 'Grav 1.6 Released!'
@@ -39,7 +39,7 @@ data:
     title: 'New XSS Protection Available in Grav 1.5.2'
     url: 'https://getgrav.org/blog/new-xss-protection'
     date: 1538411400
-    nicetime: '10 months ago'
+    nicetime: '11 months ago'
   -
     title: 'macOS 10.14 Mojave Apache Setup: Upgrading Homebrew'
     url: 'https://getgrav.org/blog/macos-mojave-apache-upgrade-homebrew'

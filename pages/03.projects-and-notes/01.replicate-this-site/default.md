@@ -20,7 +20,7 @@ Grav's documentation theme Learn2 is currently the modified theme. Using that, a
 
 ## Hardware
 
-You probably know that hardware doesn't matter much. Personally, I have a 7-year-old Mac Mini running this page. It could just as easily be a Raspberry Pi doing it, which may be an upcoming project. The Mini is hard-wired into an Airport Extreme, and routed off of my DSLR router from a Static IP.
+You probably know that hardware doesn't matter much. Personally, I have a 2012 Mac Mini running this page. It could just as easily be a Raspberry Pi doing it, which may be an upcoming project. The Mini is hard-wired into an Airport Extreme, and routed off of my DSLR router from a Static IP.
 
 If you plan on hosting yourself, off your own internet connection, please be aware of a few things:
 
