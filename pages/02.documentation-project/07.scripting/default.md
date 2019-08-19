@@ -10,7 +10,7 @@ Two Python scripts can get you home on this. Make sure you know which version of
 python -v
 ```
 
-Install Pandoc. [Normal ways](https://pandoc.org/installing.html), or on a Mac:
+Install Pandoc on your build machine if you haven't already. [Normal ways](https://pandoc.org/installing.html), or on a Mac:
 
 ```sh
 brew install pandoc

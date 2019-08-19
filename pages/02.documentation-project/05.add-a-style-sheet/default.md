@@ -46,4 +46,4 @@ Some things to be aware of...
 - If there is no `style.less` when the plugin starts, it will rewrite a new one, based again on the GitHub style.
 - It's a `.less` file, but any Cascading Style Sheet code will work within that first-line style.
 
-Now, let's [export](../export).
+Now, let's [export](../exporting-to-pdf-or-html).

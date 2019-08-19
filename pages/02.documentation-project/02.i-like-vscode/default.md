@@ -10,4 +10,4 @@ So you prefer to use VSCode as your main weapon. Great! Now this doesn't mean yo
 
 From there, you can install it on your machine, whether that's Windows, Mac, or Linux.
 
-Now, to the magic...
+Now, to [the magic...](../the-magic)
