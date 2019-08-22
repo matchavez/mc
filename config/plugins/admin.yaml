@@ -2,8 +2,12 @@ enabled: true
 route: /admin
 cache_enabled: false
 theme: grav
+logo_text: MatChavez.com
 content_padding: true
 twofa_enabled: true
+log_viewer_files:
+  - grav
+  - email
 sidebar:
   activate: tab
   hover_delay: 100
@@ -18,11 +22,12 @@ widgets:
   dashboard-pages: true
 pages:
   show_parents: both
+  show_modular: true
 session:
   timeout: 1800
 warnings:
   delete_page: true
-edit_mode: normal
+edit_mode: expert
 frontend_preview_target: inline
 show_github_msg: true
 pages_list_display_field: title

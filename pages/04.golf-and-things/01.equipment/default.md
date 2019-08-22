@@ -34,10 +34,6 @@ title: Equipment
 | 8-iron         | iBlade       | TrueTemper ProjectX      | 6.0          | 38º  | D2  | 36.50" |
 | 9-iron         | iBlade       | TrueTemper ProjectX      | 6.0          | 42º  | D2.5| 36.00" |
 | Pitching Wedge | iBlade       | TrueTemper ProjectX      | 6.0          | 46º  | D3  | 35.50" |
-| Utility Wedge  | i200         | Nippon Modus3            | 105 S, Hx1   | 50º  | D6  | 36.00" |
-| Sand Wedge     | Glide2 ss    | Nippon Modus3            | 105 S, Hx2   | 54º  | D7  | 36.00" |
-| Lob Wedge      | Glide2 ts    | TrueTemper Dynamic Gold  | S300         | 58º  | D4  | 35.25" |
-
 
 ---
 
