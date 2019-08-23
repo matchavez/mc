@@ -22,7 +22,7 @@ home:
 pages:
   theme: learn2
   order:
-    by: date
+    by: folder
     dir: asc
   list:
     count: 20
