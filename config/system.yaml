@@ -22,14 +22,14 @@ home:
 pages:
   theme: learn2
   order:
-    by: default
+    by: date
     dir: asc
   list:
     count: 20
   dateformat:
     default: 'H:i d-m-Y'
     short: 'jS M Y'
-    long: 'F jS \a\t g:ia'
+    long: 'D, d M Y G:i:s'
   publish_dates: true
   process:
     markdown: true
@@ -43,7 +43,7 @@ pages:
     extra: false
     auto_line_breaks: false
     auto_url_links: false
-    escape_markup: false
+    escape_markup: true
     special_chars:
       '>': gt
       '<': lt

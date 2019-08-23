@@ -9,7 +9,7 @@ log_viewer_files:
   - grav
   - email
 sidebar:
-  activate: tab
+  activate: hover
   hover_delay: 100
   size: auto
 dashboard:
