@@ -27,7 +27,7 @@ session:
   timeout: 1800
 warnings:
   delete_page: true
-edit_mode: expert
+edit_mode: normal
 frontend_preview_target: inline
 show_github_msg: true
 pages_list_display_field: title
