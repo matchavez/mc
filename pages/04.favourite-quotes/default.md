@@ -321,7 +321,9 @@ title: 'Favourite Quotes'
 
 ---
 
-> “Expectation is the root of all heartache.”
+> "Oft expectation fails, and most oft there
+Where most it promises; and oft it hits,
+Where hope is coldest, and despair most sits.
 > 
 > <cite>Shakespeare</cite>
 
