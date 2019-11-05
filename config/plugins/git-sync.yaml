@@ -6,7 +6,7 @@ folders:
   - config
   - data
 sync:
-  on_save: false
+  on_save: true
   on_delete: true
   on_media: true
   cron_enable: true
@@ -14,7 +14,7 @@ sync:
 repository: 'https://github.com/matchavez/mc'
 user: matchavez
 webhook: /_git-sync-4ed23131040a
-webhook_enabled: '0'
+webhook_enabled: '1'
 webhook_secret: 2e958ab60a0c0342aa8b4c96e83d84e95ee12a6b4aefae65
 branch: master
 remote:
@@ -27,4 +27,3 @@ git:
   bin: git
   message: '(Grav GitSync) Automatic Commit'
 logging: false
-password: gitsync-def50200bbc30ed3d6e8eb55a84a19fc6be004ecfcc13c7fabb55b6abc83502dad9bcbf5b11d710f9603666125bb911cabe3c6fcd943a36c980d49dc508e690dcd7f15cb2d3936da43995fdc4b3a2731c10c5be4253e72bc2986dfcdd2f7b1e54e0262d85dfa784520b591ab3296c6a7a9964a1aff698532eadfa999

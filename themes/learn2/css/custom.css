@@ -6,8 +6,13 @@ body {
   background-color: #fffff4;
  }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+h1 {
+  font-family: "Helvetica Neue", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Open Sans", sans-serif;
+  text-rendering: optimizeLegibility;
+ }
+ 
+h2, h3, h4, h5, h6 {
+  font-family: "Open Sans", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
   text-rendering: optimizeLegibility;
  }
 
@@ -123,25 +128,25 @@ a have been commented out (links).
 @include-when-export url(https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext);
 
 @font-face {
-    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+    font-family: "Open Sans", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face {
-    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+    font-family: "Open Sans", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
     font-style: italic;
     font-weight: normal;
 }
 
 @font-face {
-    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+    font-family: "Open Sans", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
     font-style: normal;
     font-weight: bold;
 }
 
 @font-face {
-    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+    font-family: "Open Sans", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
     font-style: italic;
     font-weight: bold;
 }
@@ -159,7 +164,7 @@ html {
 }
 
 body {
-    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+    font-family: "Open Sans", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
     color: rgb(51, 51, 51);
     line-height: 1.6;
 }
@@ -178,7 +183,7 @@ body {
 }
 
 a {
-    color: #22f;
+    color: #33e;
 }
 h1,
 h2,
@@ -228,9 +233,9 @@ h6 code {
 h1 {
     padding-bottom: .3em;
     font-size: 40px;
-    font-weight: 800;
+    font-weight: 700 !important;
     line-height: 1.4;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #e00;
     letter-spacing: 0.01em;
     color: #000;
 }
@@ -362,9 +367,9 @@ tt {
 }
 
 code {
-    font-family: "SF Mono", "Segoe UI Mono", "Roboto Mono", Menlo, Courier, monospace;
-    font-size: 0.75em;
-    background-color: #f3f4f4;
+    font-family: "Office Code Pro", "SF Mono", "Segoe UI Mono", "Roboto Mono", Menlo, Courier, monospace;
+    font-size: 0.875em;
+    background-color: #002832 !important;
     padding: 0 2px 0 2px;
 }
 
@@ -380,6 +385,7 @@ code {
   margin-left: -1.3em;
 }
 
+/*
 @media print {
     html {
         font-size: 13px;
@@ -432,7 +438,7 @@ code {
 	top: .285714286rem;
 }
 .md-image>.md-meta {
-    /*border: 1px solid #ddd;*/
+    border: 1px solid #ddd;
     border-radius: 3px;
     padding: 2px 0px 0px 4px;
     font-size: 0.9em;
@@ -499,3 +505,4 @@ header, .context-menu, .megamenu-content, footer{
 .dropdown-menu .divider {
     border-color: #e5e5e5;
 }
+*/

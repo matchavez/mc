@@ -9,3 +9,10 @@ published: true
 
 #### Notable:
 - 2019 Waimairi Beach ANZAC Stableford T-1 (Countback) Division 1.
+- 2019 Handiskins T-4 Tiebreaker
+
+### Interclub
+
+##### 2019-20 Metro B:
+- 06 Oct / Bottle Lake, w 7&6
+- 20 Oct / Harewood, w 2up
