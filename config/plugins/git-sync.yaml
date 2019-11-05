@@ -27,3 +27,4 @@ git:
   bin: git
   message: '(Grav GitSync) Automatic Commit'
 logging: false
+password: gitsync-def50200919a11afc4037e20d24d43850e4e142c2a367dfde80d245df97aa0f77c561739bf9e8881a7bcc8c65877a181de8dbeb5675af87004b4d2706a1b981ae3a1200387ef59ad014852a5e749d31ae2a9b1e1
