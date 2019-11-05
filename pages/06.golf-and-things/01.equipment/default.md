@@ -39,8 +39,8 @@ title: Equipment
 
 #### Other items of note:
 
-* Clubs - All clubs are Ping
+* Clubs - All clubs are Ping.
 * Grips - generally Golf Pride CP2 Pro Standard, label down. PP62 on Fetch.
-* Bag - Ping Pioneer
-* Push cart - Sun Mountain Pathfinder 4
-* Laser - Bushnell Pro X2
+* Bag - Ping Pioneer.
+* Push cart - Sun Mountain Pathfinder 4 (Not recommended!)
+* Laser - Bushnell Pro X2.
