@@ -26,7 +26,7 @@ title: Equipment
 
 | Club           | Club Model   | Club Shaft               | Shaft Detail | Loft | SW  | Length |
 | -------------- | ------------ | ------------------------ | ------------ | ---- | --- | ------ |
-| Fairway (17.5) | G Series     | Ping Tour                | 80 XS         | 17.5º| D3  | 42.50" |
+| Fairway (17.5) | G Series     | Ping Tour                | 80 XS        | 17.5º| D3  | 42.50" |
 | Hybrid (19)    | G Series     | Ping Tour 90             | 90 XS        | 19º  | D1  | 40.25" |
 | 5-iron         | iBlade       | TrueTemper ProjectX      | 6.0          | 27º  | D2  | 38.00" |
 | 6-iron         | iBlade       | TrueTemper ProjectX      | 6.0          | 30.5º| D2  | 37.50" |
@@ -44,4 +44,3 @@ title: Equipment
 * Bag - Ping Pioneer
 * Push cart - Sun Mountain Pathfinder 4
 * Laser - Bushnell Pro X2
-.
