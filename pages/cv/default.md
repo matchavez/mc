@@ -7,6 +7,8 @@ title: 'Curriculum Vitae'
 
 ---
 
+This is not yet for public consumption. **DRAFT**
+
 ### Personal Profile
 ###### _See my profile on [LinkedIn](linkedin.com/in/matchavez)._
 
@@ -44,7 +46,7 @@ After eight years of volunteering, I accepted a full time position to manage the
 #### Senior Test Manager / Consultant @ [Quardev](https://www.quardev.com)
 ###### 2007 – 2008 / Greater Seattle Area
 
-This was a contract position to manage the system update and testing of a central database for a dental insurance company. This included managing six contractors at once, with at least three offshore. 
+This was a contract position to manage the system update and testing of a central database for a dental insurance company. This included managing six contractors at once, with at least three offshore.
 
 
 #### Solutions Architect @ [Lionbridge](https://www.lionbridge.com)
