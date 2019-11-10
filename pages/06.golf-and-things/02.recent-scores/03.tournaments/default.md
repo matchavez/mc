@@ -9,7 +9,7 @@ published: true
 
 #### Notable:
 - 2019 Waimairi Beach ANZAC Stableford T-1 (Countback) Division 1.
-- 2019 Handiskins T-4 Tiebreaker
+- 2019 Waimairi Beach Handiskins T-4 Tiebreaker
 
 ### Interclub
 
