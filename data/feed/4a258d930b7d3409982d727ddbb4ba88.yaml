@@ -1,25 +1,30 @@
-last_checked: 1573017791
+last_checked: 1573365811
 data:
+  -
+    title: 'Grav 1.7 RC.1 Released'
+    url: 'https://getgrav.org/blog/grav-17-rc1-released'
+    date: 1573060980
+    nicetime: '4 days ago'
   -
     title: 'macOS 10.15 Catalina Apache Setup: Upgrading Homebrew'
     url: 'https://getgrav.org/blog/macos-catalina-apache-upgrade-homebrew'
     date: 1570536000
-    nicetime: '4 weeks ago'
+    nicetime: '1 months ago'
   -
     title: 'macOS 10.15 Catalina Apache Setup: SSL'
     url: 'https://getgrav.org/blog/macos-catalina-apache-ssl'
     date: 1570532580
-    nicetime: '4 weeks ago'
+    nicetime: '1 months ago'
   -
     title: 'macOS 10/15 Catalina Apache Setup: MySQL, Xdebug & More...'
     url: 'https://getgrav.org/blog/macos-catalina-apache-mysql-vhost-apc'
     date: 1570532400
-    nicetime: '4 weeks ago'
+    nicetime: '1 months ago'
   -
     title: 'macOS 10.15 Catalina Apache Setup: Multiple PHP Versions'
     url: 'https://getgrav.org/blog/macos-catalina-apache-multiple-php-versions'
     date: 1570528800
-    nicetime: '4 weeks ago'
+    nicetime: '1 months ago'
   -
     title: 'Grav 1.6 Released!'
     url: 'https://getgrav.org/blog/grav-1.6-released'
@@ -34,7 +39,7 @@ data:
     title: 'All RocketTheme Grav Themes 50% Off for Black Friday'
     url: 'https://getgrav.org/blog/rockettheme-blackfriday-2018'
     date: 1542790800
-    nicetime: '11 months ago'
+    nicetime: '12 months ago'
   -
     title: 'We''re Moving Chat from Slack to Discord'
     url: 'https://getgrav.org/blog/chat-moving-to-discord'
@@ -44,9 +49,4 @@ data:
     title: 'RocketTheme''s Halloween Sale is Going on Right Now'
     url: 'https://getgrav.org/blog/rockettheme-halloween-2018'
     date: 1540792800
-    nicetime: '1 years ago'
-  -
-    title: 'Git-Sync 2.0'
-    url: 'https://getgrav.org/blog/git-sync-2.0'
-    date: 1539604800
     nicetime: '1 years ago'
