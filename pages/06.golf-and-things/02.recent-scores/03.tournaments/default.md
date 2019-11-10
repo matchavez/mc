@@ -13,9 +13,10 @@ published: true
 
 ### Interclub
 
-##### 2019-20 Waimairi Beach Metro B:
-- 06 Oct / Bottle Lake, w 7&6
-- 20 Oct / Harewood, w 2up
-- 10 Nov / @ Russley, w 3&1
+##### 2019-20 Metro B:
 
-
+| Date   | Opponent    | Result | Score |
+| ------ | ----------- | ------ | ----- |
+| 06 Oct | Bottle Lake | W      | 7 & 6 |
+| 20 Oct | Harewood    | W      | 2 up  |
+| 10 Nov | at Russley  | W      | 3 & 1 |
