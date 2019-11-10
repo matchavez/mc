@@ -4,7 +4,7 @@ title: 'GFM vs JSON'
 
 ## Notetaking systems - Using GitHub Flavored Markdown .md text files vs. a JSON-formatted storage matrix
 
-_This is where notes get really nerdy..._
+#### _This is where notes get really nerdy..._
 
 In short, there are two directions to take when it comes to storing formatting and meta of notes within files. All notation applications have to retain content and show it on demand. That's essentially all any notes are; even on paper. You write notes, and paper has constant recall, available anytime.
 
