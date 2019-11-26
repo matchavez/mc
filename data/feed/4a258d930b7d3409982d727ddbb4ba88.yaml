@@ -1,10 +1,10 @@
-last_checked: 1574572086
+last_checked: 1574730302
 data:
   -
     title: 'Grav 1.7 RC.1 Released'
     url: 'https://getgrav.org/blog/grav-17-rc1-released'
     date: 1573060980
-    nicetime: '2 weeks ago'
+    nicetime: '3 weeks ago'
   -
     title: 'macOS 10.15 Catalina Apache Setup: Upgrading Homebrew'
     url: 'https://getgrav.org/blog/macos-catalina-apache-upgrade-homebrew'
@@ -29,7 +29,7 @@ data:
     title: 'Grav 1.6 Released!'
     url: 'https://getgrav.org/blog/grav-1.6-released'
     date: 1554987300
-    nicetime: '7 months ago'
+    nicetime: '8 months ago'
   -
     title: 'Important Theme Updates'
     url: 'https://getgrav.org/blog/important-theme-updates'

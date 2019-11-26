@@ -24,6 +24,8 @@ Most importantly, I scratched out Dropbox because without notice, they institute
 ### Markdown (GitHub-Flavoured Markdown, specifically)
 Why is a format part of the solution? John Gruber's original approach, and the one adopted and transformed into what's known as "GFM", is a way to write _plain text_ that is formatted. This means hashtags for headings and asterisks for bolding. It is completely readable as-is. It's not as pretty, but it is obvious when you read a completely plain text file that what you put underscores around is intended to be emphasised. It's a little like "shorthand html", but instead of writing `<h1>Heading</h1>` and surrounding all your text with HTML, you just write `# Heading`. This means that not only do you not _export_ your files, you simply work with the _raw file_ as it is. Using certain smart applications will apply those formats, and that lets you keep your original in an "application-agnostic" format.
 
+With that said, MultiMarkdown is awfully handy with its include capabilities. Code fencing is still there, but you give up some auto-linking and task tick boxes.
+
 ### Typora
 [Typora](http://typora.io) is my main writing app on the desktop. It does one trick that no other app (as of yet) does, and it's amazing. Unlike other apps that have a "preview mode", or some that do side-by-side rendering, Typora formats GFM in real-time. This means as soon as you complete a formatting step, it's going to put it on screen within the rest of your writing. Personally, this makes writing in Markdown **much, much easier** mentally. Instead of switching into a mode to see how things witll work, you see it immediately.
 
