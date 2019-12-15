@@ -21,4 +21,4 @@ published: true
 | 20 Oct | Harewood     | W      | 2 up  |
 | 10 Nov | at Russley   | W      | 3 & 1 |
 | 01 Dec | at Templeton | D      | Draw  |
-| 15 Dec | McLeans Is   |        |       |
+| 15 Dec | McLeans Is   | W      | 5 & 3 |
