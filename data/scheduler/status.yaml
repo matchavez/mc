@@ -6,7 +6,7 @@ cache-clear:
   last-run: 1577588408
 cache-purge:
   state: success
-  last-run: 1577505608
+  last-run: 1577592007
 git-sync:
   state: success
-  last-run: 1577590207
+  last-run: 1577592007
