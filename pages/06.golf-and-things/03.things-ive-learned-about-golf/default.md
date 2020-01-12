@@ -6,3 +6,10 @@ title: 'Things I''ve Learned about golf'
 
 ---
 Iron distances:
+
+
+
+
+
+
+_STUB_
