@@ -24,5 +24,8 @@ published: true
 | 15 Dec | McLeans Is   | W      | 5 & 3 |
 | 19 Jan | Coringa 			| L      |_4 & 2_|
 | 09 Feb | at Avondale | | |
-| | | | |
+| 15 Mar | Rawhiti at Coringa | | |
+| 05 Apr | Semifinals | | |
+| 19 Apr | Finals | | |
+| - | - | - | - |
 | 2019-20 | Season Record | 4w 1d 1l | 9 pts |
