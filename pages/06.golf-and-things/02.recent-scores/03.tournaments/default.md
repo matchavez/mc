@@ -22,3 +22,4 @@ published: true
 | 10 Nov | at Russley   | W      | 3 & 1 |
 | 01 Dec | at Templeton | D      | Draw  |
 | 15 Dec | McLeans Is   | W      | 5 & 3 |
+| 19 Jan | Coringa 			| L      | 4 & 2 |
