@@ -15,6 +15,7 @@ published: true
 
 ##### 2019-20 Metro B:
 http://www.canterburygolf.co.nz/interclub/canterbury-mens/metro-b/
+
 | Date   | Opponent     | Result | Score |
 | ------ | ------------ | ------ | ----- |
 | 06 Oct | Bottle Lake  | W      | 7 & 6 |
