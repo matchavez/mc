@@ -23,5 +23,6 @@ published: true
 | 01 Dec | at Templeton | D      | Draw  |
 | 15 Dec | McLeans Is   | W      | 5 & 3 |
 | 19 Jan | Coringa 			| L      |_4 & 2_|
+| 09 Feb | at Avondale | | |
 | | | | |
-| 2019-20 | Record | 4w 1d 1l | |
+| 2019-20 | Season Record | 4w 1d 1l | 9 pts |
