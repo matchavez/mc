@@ -29,4 +29,4 @@ published: true
 | 05 Apr | Semifinals at TBD | | |
 | 19 Apr | Finals at TBD | | |
 | ------- | ------- | ------- | ------- |
-| 2019-20 | Season Record | 4w 1d 1l | 9 pts |
+| 2019-20 | Season Record | 4-1-1 | 9 pts |
