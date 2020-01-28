@@ -18,7 +18,7 @@ published: true
 | Date   | Opponent     | Result | Score |
 | ------ | ------------ | ------ | ----- |
 | 06 Oct | Bottle Lake  | W      | 7 & 6 |
-| 20 Oct | Harewood     | W      | 2 up  |
+| 20 Oct | Harewood     | W      | 2 Up  |
 | 10 Nov | at Russley   | W      | 3 & 1 |
 | 01 Dec | at Templeton | D      | Draw  |
 | 15 Dec | McLeans Is   | W      | 5 & 3 |
