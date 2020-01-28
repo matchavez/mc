@@ -24,9 +24,9 @@ published: true
 | 01 Dec | at Templeton | D      | Draw  | 4.5-3.5 w |
 | 15 Dec | McLeans Is   | W      | 5 & 3 | 7-1 w |
 | 19 Jan | Coringa 			| L      |_4 & 2_| 2-6 l |
-| 09 Feb | at Avondale | | |
-| 15 Mar | Rawhiti at Coringa | | |
-| 05 Apr | Semifinals at TBD | | |
-| 19 Apr | Finals at TBD | | |
-| ------- | ------- | ------- | ------- |
-| 2019-20 | Season Record | 4-1-1 | 9 pts |
+| 09 Feb | at Avondale | | | |
+| 15 Mar | Rawhiti at Coringa | | | |
+| 05 Apr | Semifinals at TBD | | | |
+| 19 Apr | Finals at TBD | | | |
+| ------- | ------- | ------- | ------- | ------- |
+| 2019-20 | Season Record | 4-1-1 | 9 points | 7 points |
