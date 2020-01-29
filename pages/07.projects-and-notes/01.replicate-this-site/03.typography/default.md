@@ -215,3 +215,13 @@ a#logo h1 {
       new Queue(leading, x :: trailing)
   }
 ```
+
+```css
+a#logo h1 {
+  color: #ff0000;
+}
+
+#header {
+  background: #000000;
+}
+```
