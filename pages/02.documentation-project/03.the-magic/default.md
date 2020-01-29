@@ -4,7 +4,7 @@ title: 'The Magic'
 
 Combining fragmented documents is really the magic here. And for all the different applications I've seen, not many do it better. Short history; I first solved this issue with an app called Scriviner. It's excellent, and still is for sure. Great developer, solid product. It's really a book or screenplay writing application, and it does a great job. However even the best of these kinds of applications still require JSON storage in a local SQLite database. If that makes no sense, it means in short that you will have some sort of lock-in... whether it means buying everyone on your team a license, or you're taking your markdown and putting it into someone else's format.
 
-Enough of that - you came here for the fix. And in reality, it's been right under our nose the whole time. Windows, Mac, Linux... they all have something built into the operating system called concatenation. Specifically, they have a function you can call. Concatenation is simply taking A + B + C and making ABC; in this case three things into one. What we want to do with markdown is the same:
+_Enough of that - you came here for the fix._ And in reality, it's been right under our nose the whole time. Windows, Mac, Linux... they all have something built into the operating system called concatenation. Specifically, they have a function you can call. Concatenation is simply taking A + B + C and making ABC; in this case three things into one. What we want to do with markdown is the same:
 
 ###### Fragment_1.md + Fragment_2.md + Fragment_3.md -> combined_file.md
 
