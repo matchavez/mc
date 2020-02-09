@@ -24,7 +24,7 @@ published: true
 | 01 Dec | at Templeton | D      | Draw  | 4.5-3.5 w |
 | 15 Dec | McLeans Is   | W      | 5 & 3 | 7-1 w |
 | 19 Jan | Coringa 			| L      |_4 & 2_| 2-6 l |
-| 09 Feb | at Avondale | | | |
+| 09 Feb | at Avondale | W      | 5 & 3 | 4-4 d |
 | 15 Mar | Rawhiti at Coringa | | | |
 | 05 Apr | Semifinals at TBD | | | |
 | 19 Apr | Finals at TBD | | | |
