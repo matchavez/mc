@@ -1,4 +1,4 @@
 enabled: true
 gsn: GSN-179379-U
-gsInAdmin: true
+gsInAdmin: false
 gsLoadLate: false
