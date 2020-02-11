@@ -1,0 +1,57 @@
+name: GoSquared Analytics
+version: 0.1.6
+description: "GoSquared Analytics plugin lets you easily add the GoSquared Analytics platform to your GRAV website."
+icon: bar-chart
+author:
+  name: Craig Phillips
+  email: support@craigphillips.biz
+  url: http://craigphillips.biz
+homepage: https://github.com/cppl/grav-gosquared
+keywords: gosquared, plugin, tracking, analytics
+bugs: https://github.com/cppl/grav-gosquared/issues
+docs: https://github.com/cppl/grav-gosquared/blob/master/README.md
+license: MIT
+
+form:
+  validation: strict
+  fields:
+    enabled:
+      type: toggle
+      label: PLUGIN_ADMIN.PLUGIN_STATUS
+      highlight: 1
+      default: 0
+      options:
+        1: PLUGIN_ADMIN.ENABLED
+        0: PLUGIN_ADMIN.DISABLED
+      validate:
+        type: bool
+
+    gsn:
+      type: text
+      size: medium
+      label: PLUGIN_GOSQUARED.GSN
+      placeholder: 'GSN-999999-X'
+      help: PLUGIN_GOSQUARED.GSN_HELP
+
+    gsInAdmin:
+      type: toggle
+      label: PLUGIN_GOSQUARED.GS_IN_ADMIN
+      default: 0
+      options:
+        1: PLUGIN_ADMIN.ENABLED
+        0: PLUGIN_ADMIN.DISABLED
+      validate:
+        type: bool
+      help: PLUGIN_GOSQUARED.GS_IN_ADMIN_HELP
+
+    gsLoadLate:
+      type: toggle
+      label: PLUGIN_GOSQUARED.GS_LOAD_LATE
+      default: 0
+      options:
+        1: PLUGIN_ADMIN.ENABLED
+        0: PLUGIN_ADMIN.DISABLED
+      validate:
+        type: bool
+      help: PLUGIN_GOSQUARED.GS_LOAD_LATE_HELP
+
