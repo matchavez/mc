@@ -2,7 +2,7 @@
 title: Welcome
 ---
 
-![](/webcam/latest.jpg)<cite></cite>
+![](/webcam/latest.jpg)<cite>Right now, in Christchurch, New Zealand.</cite>
 
 It's not a blog. It's also not documentation.
 
