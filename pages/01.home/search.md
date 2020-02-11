@@ -2,7 +2,7 @@
 title: Welcome
 ---
 
-![](img_9324.jpg)<cite></cite>
+![](/webcam/latest.jpg)<cite></cite>
 
 It's not a blog.
 
