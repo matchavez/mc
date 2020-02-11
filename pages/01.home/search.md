@@ -2,7 +2,7 @@
 title: Welcome
 ---
 
-![](http://admin:123456@10.0.1.44:8080/mjpeg/snap.cgi?chn=1)<cite>Photo taken by me, near Hanmer Springs, New Zealand</cite>
+![](http://admin:123456@10.0.1.44:8080/mjpeg/snap.cgi?chn=0)<cite>Photo taken by me, near Hanmer Springs, New Zealand</cite>
 
 It's not a blog.
 
