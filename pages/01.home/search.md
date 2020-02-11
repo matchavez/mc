@@ -2,7 +2,7 @@
 title: Welcome
 ---
 
-![](http://admin:123456@10.0.1.44:8080/mjpeg/snap.cgi?chn=0)<cite>From Mt Pleasant, Christchurch</cite>
+![](img_9324.jpg)<cite></cite>
 
 It's not a blog.
 
