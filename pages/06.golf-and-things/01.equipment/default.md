@@ -19,7 +19,7 @@ title: Equipment
 | Utility Wedge  | Glide Forged | TrueTemper Dynamic Gold | S400 TI      | 50º   | D4  | 35.25" |
 | Sand Wedge     | Glide Forged | TrueTemper Dynamic Gold | S400 TI      | 54º   | D4  | 35.00" |
 | Lob Wedge      | Glide Forged | TrueTemper Dynamic Gold | S400 TI      | 58º   | D5  | 34.75" |
-| Putter         | Sigma2 Fetch | Ping Adjustable         | n/a          | 4º    | n/a | 32.90" |
+| Putter         | Sigma2 Fetch | Breakthrough Stability        | n/a          | 4º    | D1 | 32.90" |
 
 
 ## _On The Bench_
@@ -41,7 +41,7 @@ title: Equipment
 #### Other items of note:
 
 * Clubs - All clubs are Ping.
-* Grips - generally Golf Pride CP2 Pro Standard, label down. PP62 on Fetch.
+* Grips - generally Golf Pride CP2 Pro Standard, label down. SuperStroke Traxion 8g on Fetch.
 * Bag - Ping Pioneer 2019.
 * Push cart - Sun Mountain Pathfinder 4 (Not recommended!)
 * Laser - Bushnell Pro X2.
