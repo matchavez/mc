@@ -19,7 +19,7 @@ title: Equipment
 | Utility Wedge  | Glide Forged | TrueTemper Dynamic Gold | S400 TI      | 50º   | D4  | 35.25" |
 | Sand Wedge     | Glide Forged | TrueTemper Dynamic Gold | S400 TI      | 54º   | D4  | 35.00" |
 | Lob Wedge      | Glide Forged | TrueTemper Dynamic Gold | S400 TI      | 58º   | D5  | 34.75" |
-| Putter         | Sigma2 Fetch | Breakthrough Stability        | n/a          | 4º    | D1 | 32.90" |
+| Putter         | Sigma2 Fetch | Breakthrough Tech       | Stability          | 4º    | D1 | 32.90" |
 
 
 ## _On The Bench_
