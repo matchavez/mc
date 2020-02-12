@@ -2,7 +2,7 @@ purge:
   trigger: time
   max_backups_count: 25
   max_backups_space: 5
-  max_backups_time: 21
+  max_backups_time: 14
 profiles:
   -
     name: 'Default Site Backup'
