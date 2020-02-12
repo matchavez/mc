@@ -9,7 +9,7 @@ title: Equipment
 | Driver (10)    | G400 LST     | Ping Tour 75            | 75 S         | 9.0º  | D3  | 45.25" |
 | Fairway (16)   | G SFT        | Ping Tour 80            | 80 XS        | 15.0º   | D3  | 42.50" |
 | Driving Iron   | Rapture DI   | UST Recoil Proto        | 95 F5        | 18º   | D3  | 39.75" |
-| 4-iron         | i210         | TT Dynamic Gold 120     | S300         | 22.5  | D2  | 38.50" |
+| 4-iron         | i210         | TT Dynamic Gold 120     | S300         | 22.5º  | D2  | 38.50" |
 | 5-iron         | Blueprint    | TrueTemper Dynamic Gold | S400 TI      | 27º   | D1  | 37.75" |
 | 6-iron         | Blueprint    | TrueTemper Dynamic Gold | S400 TI      | 30.5º | D1  | 37.25" |
 | 7-iron         | Blueprint    | TrueTemper Dynamic Gold | S400 TI      | 34º   | D1  | 36.75" |
