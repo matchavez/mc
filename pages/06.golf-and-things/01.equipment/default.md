@@ -27,7 +27,7 @@ title: Equipment
 | Club           | Club Model | Club Shaft          | Shaft Detail | Loft  | SW   | Length |
 | -------------- | ---------- | ------------------- | ------------ | ----- | ---- | ------ |
 | Fairway (17.5) | G Series   | Ping Tour           | 80 XS        | 17.5º | D3   | 42.50" |
-| Hybrid (19)    | G Series   | Ping Tour 90        | 90 XS        | 19º   | D1   | 40.25" |
+| Hybrid (19)    | G Series   | Ping Tour 90        | 90 XS        | 19º   | D1   | 39.25" |
 | 4-iron         | i500       | Nippon Modus3       | 105 S        | 21º   | D2   | 38.88" |
 | 5-iron         | iBlade     | TrueTemper ProjectX | 6.0          | 27º   | D2   | 38.00" |
 | 6-iron         | iBlade     | TrueTemper ProjectX | 6.0          | 30.5º | D2   | 37.50" |
