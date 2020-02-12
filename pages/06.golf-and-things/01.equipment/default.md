@@ -41,7 +41,7 @@ title: Equipment
 #### Other items of note:
 
 * Clubs - All clubs are Ping.
-* Grips - generally Golf Pride CP2 Pro Standard, label down. SuperStroke Traxion 8g on Fetch.
+* Grips - generally Golf Pride CP2 Pro Standard, label down. SuperStroke Traxion Pistol GT 2.0 +8g on Fetch.
 * Bag - Ping Pioneer 2019.
 * Push cart - Sun Mountain Pathfinder 4 (Not recommended!)
 * Laser - Bushnell Pro X2.
