@@ -181,7 +181,7 @@ a have been commented out (links).
 	    /* 24px */
 	    letter-spacing: -0.6px;
 	    font-weight: bold;
-	    color: #2eaa76;
+	    color: #00d25d;
 	}
 	
 	h4 {
@@ -428,12 +428,12 @@ a have been commented out (links).
 	}
 	
 	a {
-	    color: #55e;
+	    color: #27f;
 	    text-decoration: underline;
 	}
 	
 	a:hover {
-	    color: #66f;
+	    color: #27f;
 	}
 	
 	.md-inline-math script {
