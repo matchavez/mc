@@ -4,16 +4,17 @@ title: 'Measurement Obscurities'
 
 ### _These things are probably different than you think..._
 
-#### Altitude and Elevation
+#### Altitude and Elevation (and Height)
 
 These two words are often used interchangeably, and there's actually a good reason for it. However, they should be different.
 
-Altitude - measured height above the ground
+Altitude - measured height from mean sea level
 Elevation - measured height from mean sea level
+Height - measured distance from ground at any elevation
 
-Specifically, if you were at an elevation of 1000m, and you throw a ball 5 metres in the air, the ball is at an altitude of 5 metres. If you throw that ball off of a 200m cliff, it is at an altitude of 205m, over ground that is 800m elevation.
+Specifically, if you were at an elevation of 1000m, and you throw a ball 5 metres in the air, the ball is at a height of 5 metres, and an altitude of 1005m. If you throw that ball off of a 200m cliff, it is at a height of 205m, over ground that is 800m elevation, but the same altitude.
 
-The reason everything gets messy, and why these two words have officially become synonimous, is that "Altitude" as it relates to aviation is measured height from sea level at all times. This had to do with measured barometric pressure, etc., but one can land a plane at 400m altitude as long as the runway is at 400m elevation.
+The reason everything gets messy, and why these two words have officially become synonimous, is that "Altitude" as it relates to aviation is measured height above mean sea level (AMSL) at all times. This hadsto do with measured barometric pressure, etc., but one can land a plane at 400m altitude as long as the runway is at 400m elevation, because the height is zero.
 
 #### Interval and Duration
 
