@@ -25,7 +25,7 @@ published: true
 | 15 Dec | McLeans Is   | W      | 5 & 3 | 7-1 w |
 | 19 Jan | Coringa 			| L      |_4 & 2_| 2-6 l |
 | 09 Feb | at Avondale | W      | 5 & 3 | 4-4 d |
-| 15 Mar | Rawhiti at Coringa | | | |
+| 15 Mar | Rawhiti at Coringa | W | 5 & 4 | 6.5-1.5 w |
 | 05 Apr | Semifinals at TBD | | | |
 | 19 Apr | Finals at TBD | | | |
 | ------- | ------- | ------- | ------- | ------- |
