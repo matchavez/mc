@@ -4,6 +4,11 @@ title: 'Mac Stuff'
 
 ### Handy Mac commands:
 
+Make your media shortcuts work even when they're not the focused window, like it used to be:
+
+- Open `System Preferences -> Keyboard -> Shortcuts -> Keyboard`
+- Uncheck the <kbd>F7</kbd> and <kbd>F8</kbd> options
+
 Show Hidden Files
 
 ```sh

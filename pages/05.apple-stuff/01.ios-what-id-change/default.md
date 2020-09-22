@@ -20,3 +20,6 @@ iPads have the "Show Date in Status Bar" option, but iPhones don't. Why not? Jus
 
 If you pull up from the bottom on iPhone, it's the same as if you pull from the upper right corner of an iPad. Why?
 
+---
+
+All iDevices should allow a mode you can boot into that accept an HDMI signal. All of those old iPads doing nothing... well, they could be a Raspberry Pi screen, a gaming screen, a second monitor... not something to be thrown away. 
