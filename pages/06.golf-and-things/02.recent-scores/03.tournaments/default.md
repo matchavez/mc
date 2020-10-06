@@ -29,7 +29,7 @@ published: true
 | 14 Jun | Semifinals Russley at Templeton | W    | 1up | 4-4, won playoff |
 | 28 Jun | Finals at Waitikiri | W | 3&2 | 4-4, lost playoff |
 | --- | --- | --- | --- | --- |
-| 2019-20 | Season Record | 8-1-1 | r.s. 13/16 points | 4-2-2 |
+| 2019-20 | Season Record | 8-1-1 | r.s. 13/16 points | 4w 2d 2l |
 
 Team finish, Runners up. Top team individual record.
 
@@ -39,6 +39,6 @@ Team finish, Runners up. Top team individual record.
 | Date   | Opponent     | Result | Score | Team |
 | ------ | ------------ | ------ | ----- | ----- |
 | 20 Sep | McLean's Island | DNP-P | - | 5-3 L |
-| | | | | |
+| 04 Oct | Avondale | W | 6&5 | 7-1 W |
 | --- | --- | --- | --- | --- |
-| 2020-21 | Season Record | 0w 0d 0l | r.s. 0/0 points | 0w 0w 1l |
+| 2020-21 | Season Record | 1w 0d 0l | r.s. 2/2 points | 1w 0d 1l |
