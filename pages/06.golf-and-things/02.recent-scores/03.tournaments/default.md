@@ -26,8 +26,8 @@ published: true
 | 19 Jan | Coringa 			| L      |_4 & 2_| 2-6 l |
 | 09 Feb | at Avondale | W      | 5 & 3 | 4-4 d |
 | 15 Mar | Rawhiti at Coringa | W | 5 & 4 | 6.5-1.5 w |
-| 14 Jun | Semifinals Russley at Templeton | W    | 1up | 4-4, won playoff |
-| 28 Jun | Finals at Waitikiri | W | 3&2 | 4-4, lost playoff |
+| 14 Jun | Semifinals Russley at Templeton | W    | 1 Up | 4-4, won playoff |
+| 28 Jun | Finals at Waitikiri | W | 3 & 2 | 4-4, lost playoff |
 | --- | --- | --- | --- | --- |
 | 2019-20 | Season Record | 8-1-1 | r.s. 13/16 points | 4w 2d 2l |
 
@@ -39,7 +39,7 @@ Team finish, Runners up. Top team individual record.
 | Date   | Opponent     | Result | Score | Team |
 | ------ | ------------ | ------ | ----- | ----- |
 | 20 Sep | McLean's Island | DNP-P | - | 5-3 L |
-| 04 Oct | Avondale | W | 6&5 | 7-1 W |
+| 04 Oct | Avondale | W | 6 & 5 | 7-1 W |
 | 18 Oct | Harewood | D | AS | 4.5-3.5 W |
 | --- | --- | --- | --- | --- |
 | 2020-21 | Season Record | 1w 1d 0l | r.s. 3/4 points | 2w 0d 1l |
