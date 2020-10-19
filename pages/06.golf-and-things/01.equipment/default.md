@@ -16,7 +16,7 @@ title: Equipment
 | 8-iron         | Blueprint    | TrueTemper Dynamic Gold | S400 TI      | 38º   | D1  | 36.25" |
 | 9-iron         | Blueprint    | TrueTemper Dynamic Gold | S400 TI      | 42º   | D1  | 35.75" |
 | Pitching Wedge | Blueprint    | TrueTemper Dynamic Gold | S400 TI      | 46º   | D2  | 35.50" |
-| Utility Wedge  | Glide Forged | TrueTemper Dynamic Gold | S400 TI      | 50º   | D4  | 35.25" |
+| Gap Wedge  | Glide Forged | TrueTemper Dynamic Gold | S400 TI      | 50º   | D4  | 35.25" |
 | Sand Wedge     | Glide Forged | TrueTemper Dynamic Gold | S400 TI      | 54º   | D4  | 35.00" |
 | Lob Wedge      | Glide Forged | TrueTemper Dynamic Gold | S400 TI      | 58º   | D5  | 34.75" |
 | Putter         | Sigma2 Fetch | Breakthrough Technology       | Stability          | 4º    | D1 | 32.90" |
