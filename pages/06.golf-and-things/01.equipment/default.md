@@ -26,14 +26,14 @@ title: Equipment
 
 | Club           | Model | Shaft          | Detail | Loft  | SW   | Length |
 | -------------- | ---------- | ------------------- | ------------ | ----- | ---- | ------ |
-| Fairway       | G Series 17.5  | Ping Tour           | 80 X        | 17.5º | D3   | 42.50" |
+| 5-Wood       | G Series 17.5  | Ping Tour           | 80 X        | 17.5º | D3   | 42.50" |
 | Driving Iron  | Rapture DI 18  | UST Recoil Proto        | 95 F5        | 18º   | D3  | 39.75" |
-| 4-iron         | i500       | Nippon Modus3       | 105 S        | 21º   | D2   | 38.88" |
-| 5-iron         | iBlade     | TrueTemper ProjectX | 6.0          | 27º   | D2   | 38.00" |
-| 6-iron         | iBlade     | TrueTemper ProjectX | 6.0          | 30.5º | D2   | 37.50" |
-| 7-iron         | iBlade     | TrueTemper ProjectX | 6.0          | 34º   | D2   | 37.00" |
-| 8-iron         | iBlade     | TrueTemper ProjectX | 6.0          | 38º   | D2   | 36.50" |
-| 9-iron         | iBlade     | TrueTemper ProjectX | 6.0          | 42º   | D2.5 | 36.00" |
+| 4-Iron         | i500       | Nippon Modus3       | 105 S        | 21º   | D2   | 38.88" |
+| 5-Iron         | iBlade     | TrueTemper ProjectX | 6.0          | 27º   | D2   | 38.00" |
+| 6-Iron         | iBlade     | TrueTemper ProjectX | 6.0          | 30.5º | D2   | 37.50" |
+| 7-Iron         | iBlade     | TrueTemper ProjectX | 6.0          | 34º   | D2   | 37.00" |
+| 8-Iron         | iBlade     | TrueTemper ProjectX | 6.0          | 38º   | D2   | 36.50" |
+| 9-Iron         | iBlade     | TrueTemper ProjectX | 6.0          | 42º   | D2.5 | 36.00" |
 | Pitching Wedge | iBlade     | TrueTemper ProjectX | 6.0          | 46º   | D3   | 35.50" |
 | Putter         | Sigma2 Fetch | Ping Adjustable       | n/a          | 4º    |  | " |
 
