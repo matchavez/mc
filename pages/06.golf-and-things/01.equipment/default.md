@@ -7,14 +7,14 @@ title: Equipment
 | Club    | Model      | Shaft               | Detail | Loft       | SW | Length |
 | ------- | ---------- | ------------------- | ------ | ---------- | -- | ------ |
 | Driver  | G410 LST 9 | Ping Tour           | 65 X   | 8º Flat    | D5.5 | 45.25" |
-| Fairway | G410 LST 14.5  | Ping Tour           | 75 X   | 13º Flat | D3 | 43.00" |
-| Hybrid  | G410 19      | Ping Tour           | 85 X   | 18º Flat   | D3 | 40.25" |
-| 4-iron         | i210       | TrueTemper DG 120 | S300   | 22.5º      | D2 | 38.50" |
-| 5-iron         | Blueprint    | TrueTemper Dynamic Gold | S400 TI      | 27º   | D1  | 37.75" |
-| 6-iron         | Blueprint    | TrueTemper Dynamic Gold | S400 TI      | 30.5º | D1  | 37.25" |
-| 7-iron         | Blueprint    | TrueTemper Dynamic Gold | S400 TI      | 34º   | D1  | 36.75" |
-| 8-iron         | Blueprint    | TrueTemper Dynamic Gold | S400 TI      | 38º   | D1  | 36.25" |
-| 9-iron         | Blueprint    | TrueTemper Dynamic Gold | S400 TI      | 42º   | D1  | 35.75" |
+| 3-Wood | G410 LST 14.5  | Ping Tour           | 75 X   | 13º Flat | D3 | 43.00" |
+| 3-Hybrid  | G410 19      | Ping Tour           | 85 X   | 18º Flat   | D3 | 40.25" |
+| 4-Iron         | i210       | TrueTemper DG 120 | S300   | 22.5º      | D2 | 38.50" |
+| 5-Iron         | Blueprint    | TrueTemper Dynamic Gold | S400 TI      | 27º   | D1  | 37.75" |
+| 6-Iron         | Blueprint    | TrueTemper Dynamic Gold | S400 TI      | 30.5º | D1  | 37.25" |
+| 7-Iron         | Blueprint    | TrueTemper Dynamic Gold | S400 TI      | 34º   | D1  | 36.75" |
+| 8-Iron         | Blueprint    | TrueTemper Dynamic Gold | S400 TI      | 38º   | D1  | 36.25" |
+| 9-Iron         | Blueprint    | TrueTemper Dynamic Gold | S400 TI      | 42º   | D1  | 35.75" |
 | Pitching Wedge | Blueprint    | TrueTemper Dynamic Gold | S400 TI      | 46º   | D2  | 35.50" |
 | Gap Wedge  | Glide Forged | TrueTemper Dynamic Gold | S400 TI      | 50º   | D4  | 35.25" |
 | Sand Wedge     | Glide Forged | TrueTemper Dynamic Gold | S400 TI      | 54º   | D4  | 35.00" |
