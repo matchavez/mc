@@ -27,7 +27,7 @@ published: true
 | 09 Feb | at Avondale | W      | 5 & 3 | 4-4 D |
 | 15 Mar | Rawhiti at Coringa | W | 5 & 4 | 6.5-1.5 W |
 | 14 Jun | Semifinals Russley at Templeton | W    | 1 Up | 4-4, won playoff |
-| 28 Jun | Finals at Waitikiri | W | 3 & 2 | 4-4, lost playoff |
+| 28 Jun | Finals Bottle Lake at Waitikiri | W | 3 & 2 | 4-4, lost playoff |
 | --- | --- | --- | --- | --- |
 | 2019-20 | Season Record | 8-1-1 | r.s. 13/16 points | 4w 2d 2l |
 
