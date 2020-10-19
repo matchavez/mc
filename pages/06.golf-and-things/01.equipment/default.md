@@ -50,4 +50,4 @@ title: Equipment
 * Bag - Ping Pioneer 2019
 * Push cart - Sun Mountain Pathfinder 4 (Not recommended!)
 * Laser - Bushnell Pro X2
-* Ball - Bridgestone Tour BX
+* Ball - Bridgestone Tour BX 2020
