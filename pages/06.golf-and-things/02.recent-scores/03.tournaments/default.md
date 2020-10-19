@@ -21,7 +21,7 @@ published: true
 | 06 Oct | Bottle Lake  | W      | 7 & 6 | 6-2 w |
 | 20 Oct | Harewood     | W      | 2 Up  | 4-4 d |
 | 10 Nov | at Russley   | W      | 3 & 1 | 3-5 l |
-| 01 Dec | at Templeton | D      | Draw  | 4.5-3.5 w |
+| 01 Dec | at Templeton | D      | AS  | 4.5-3.5 w |
 | 15 Dec | McLeans Is   | W      | 5 & 3 | 7-1 w |
 | 19 Jan | Coringa 			| L      |_4 & 2_| 2-6 l |
 | 09 Feb | at Avondale | W      | 5 & 3 | 4-4 d |
