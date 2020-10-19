@@ -26,7 +26,7 @@ title: Equipment
 
 | Club           | Model | Shaft          | Detail | Loft  | SW   | Length |
 | -------------- | ---------- | ------------------- | ------------ | ----- | ---- | ------ |
-| Fairway       | G Series 17.5  | Ping Tour           | 80 S        | 17.5º | D3   | 42.50" |
+| Fairway       | G Series 17.5  | Ping Tour           | 80 X        | 17.5º | D3   | 42.50" |
 | Driving Iron  | Rapture DI 18  | UST Recoil Proto        | 95 F5        | 18º   | D3  | 39.75" |
 | 4-iron         | i500       | Nippon Modus3       | 105 S        | 21º   | D2   | 38.88" |
 | 5-iron         | iBlade     | TrueTemper ProjectX | 6.0          | 27º   | D2   | 38.00" |
