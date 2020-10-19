@@ -18,14 +18,14 @@ published: true
 
 | Date   | Opponent     | Result | Score | Team |
 | ------ | ------------ | ------ | ----- | ----- |
-| 06 Oct | Bottle Lake  | W      | 7 & 6 | 6-2 w |
-| 20 Oct | Harewood     | W      | 2 Up  | 4-4 d |
-| 10 Nov | at Russley   | W      | 3 & 1 | 3-5 l |
-| 01 Dec | at Templeton | D      | AS  | 4.5-3.5 w |
-| 15 Dec | McLeans Is   | W      | 5 & 3 | 7-1 w |
-| 19 Jan | Coringa 			| L      |_4 & 2_| 2-6 l |
-| 09 Feb | at Avondale | W      | 5 & 3 | 4-4 d |
-| 15 Mar | Rawhiti at Coringa | W | 5 & 4 | 6.5-1.5 w |
+| 06 Oct | Bottle Lake  | W      | 7 & 6 | 6-2 W |
+| 20 Oct | Harewood     | W      | 2 Up  | 4-4 D |
+| 10 Nov | at Russley   | W      | 3 & 1 | 3-5 L |
+| 01 Dec | at Templeton | D      | AS  | 4.5-3.5 W |
+| 15 Dec | McLeans Is   | W      | 5 & 3 | 7-1 W |
+| 19 Jan | Coringa 			| L      |_4 & 2_| 2-6 L |
+| 09 Feb | at Avondale | W      | 5 & 3 | 4-4 D |
+| 15 Mar | Rawhiti at Coringa | W | 5 & 4 | 6.5-1.5 W |
 | 14 Jun | Semifinals Russley at Templeton | W    | 1 Up | 4-4, won playoff |
 | 28 Jun | Finals at Waitikiri | W | 3 & 2 | 4-4, lost playoff |
 | --- | --- | --- | --- | --- |
