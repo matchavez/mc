@@ -9,5 +9,5 @@ cache-purge:
   last-run: 1603252808
 git-sync:
   state: failure
-  last-run: 1603625401
+  last-run: 1603627200
   error: null
