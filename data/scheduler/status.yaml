@@ -8,5 +8,6 @@ cache-purge:
   state: success
   last-run: 1604635209
 git-sync:
-  state: success
-  last-run: 1604660409
+  state: failure
+  last-run: 1604662231
+  error: null
