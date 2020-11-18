@@ -18,9 +18,9 @@ published: true
 
 | Date   | Opponent     | Result | Score | Team |
 | ------ | ------------ | ------ | ----- | ----- |
-| 20 Sep | McLean's Island | DNP-P | - | 5-3 L |
-| 04 Oct | Avondale | W | 6 & 5 | 7-1 W |
-| 18 Oct | at Harewood | D | AS | 4.5-3.5 W |
+| 20 Sep | McLean's Island | DNP-P | - | 5-3 Loss |
+| 04 Oct | Avondale | Win | 6 & 5 | 7-1 Win |
+| 18 Oct | at Harewood | Draw | AS | 4.5-3.5 Win |
 | 08 Nov | at Bottle Lake | | | PPD |
 | 29 Nov | Templeton | | | |
 | 24 Jan | at Coringa | | | |
@@ -37,16 +37,16 @@ published: true
 
 | Date   | Opponent     | Result | Score | Team |
 | ------ | ------------ | ------ | ----- | ----- |
-| 06 Oct | Bottle Lake  | W      | 7 & 6 | 6-2 W |
-| 20 Oct | Harewood     | W      | 2 Up  | 4-4 D |
-| 10 Nov | at Russley   | W      | 3 & 1 | 3-5 L |
-| 01 Dec | at Templeton | D      | AS  | 4.5-3.5 W |
-| 15 Dec | McLeans Is   | W      | 5 & 3 | 7-1 W |
-| 19 Jan | Coringa 			| L      |_4 & 2_| 2-6 L |
-| 09 Feb | at Avondale | W      | 5 & 3 | 4-4 D |
-| 15 Mar | Rawhiti at Coringa | W | 5 & 4 | 6.5-1.5 W |
-| 14 Jun | Semifinals Russley at Templeton | W    | 1 Up | 4-4, won playoff |
-| 28 Jun | Finals Bottle Lake at Waitikiri | W | 3 & 2 | 4-4, lost playoff |
+| 06 Oct | Bottle Lake  | Win      | 7 & 6 | 6-2 Win |
+| 20 Oct | Harewood     | Win      | 2 Up  | 4-4 Draw |
+| 10 Nov | at Russley   | Win      | 3 & 1 | 3-5 Loss |
+| 01 Dec | at Templeton | Draw      | AS  | 4.5-3.5 Win |
+| 15 Dec | McLeans Is   | Win      | 5 & 3 | 7-1 Win |
+| 19 Jan | Coringa 			| Loss      |_4 & 2_| 2-6 Loss |
+| 09 Feb | at Avondale | Win      | 5 & 3 | 4-4 Draw |
+| 15 Mar | Rawhiti at Coringa | Win | 5 & 4 | 6.5-1.5 Win |
+| 14 Jun | Semifinals Russley at Templeton | Win    | 1 Up | 4-4, won playoff |
+| 28 Jun | Finals Bottle Lake at Waitikiri | Win | 3 & 2 | 4-4, lost playoff |
 | --- | --- | --- | --- | --- |
 | 2019-20 | Season Record | 8w 1d 1l | r.s. 13/16 points | 4w 2d 2l |
 
