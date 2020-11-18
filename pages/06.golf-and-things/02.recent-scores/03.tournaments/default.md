@@ -45,8 +45,8 @@ published: true
 | 19 Jan | Coringa 			| Loss      |_4 & 2_| 2-6 Loss |
 | 09 Feb | at Avondale | Win      | 5 & 3 | 4-4 Draw |
 | 15 Mar | Rawhiti at Coringa | Win | 5 & 4 | 6.5-1.5 Win |
-| 14 Jun | Semifinals Russley at Templeton | Win    | 1 Up | 4-4, won playoff |
-| 28 Jun | Finals Bottle Lake at Waitikiri | Win | 3 & 2 | 4-4, lost playoff |
+| 14 Jun | _Semifinals Russley at Templeton_ | Win    | 1 Up | 4-4, won playoff |
+| 28 Jun | _Finals Bottle Lake at Waitikiri_ | Win | 3 & 2 | 4-4, lost playoff |
 | --- | --- | --- | --- | --- |
 | 2019-20 | Season Record | 8w 1d 1l | r.s. 13/16 pts | 4w 2d 2l |
 
