@@ -7,7 +7,7 @@ title: Equipment
 | Club    | Model      | Shaft               | Detail | Loft       | SW | Length |
 | ------- | ---------- | ------------------- | ------ | ---------- | -- | ------ |
 | Driver  | G410 LST 9 | Ping Tour           | 65 X   | 8º Flat    | D5.5 | 45.25" |
-| 3-Wood | G410 LST 14.5  | Ping Tour           | 75 X   | 13º Flat | D3 | 43.00" |
+| 3-Wood | G410 LST 14.5  | Ping Tour           | 75 X   | 13.5º Flat | D3 | 43.00" |
 | 3-Hybrid  | G410 19      | Ping Tour           | 85 X   | 18º Flat   | D3 | 40.25" |
 | 4-Iron         | i210       | TrueTemper DG 120 | S300   | 22.5º      | D2 | 38.50" |
 | 5-Iron         | Blueprint    | TrueTemper Dynamic Gold | S400 TI      | 27º   | D1  | 37.75" |
