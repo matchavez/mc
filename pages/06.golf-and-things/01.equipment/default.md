@@ -42,7 +42,7 @@ title: Equipment
 #### Other items of note:
 
 * Clubs - All clubs are Ping
-* Grips
+* Grips:
     + generally Golf Pride CP2 Pro Standard, label down +3 tape right
     + Driver +1/+4
     + Wedges 0/+2 
