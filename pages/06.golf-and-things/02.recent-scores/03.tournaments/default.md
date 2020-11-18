@@ -29,7 +29,7 @@ published: true
 | 11 Apr | Semis TBD | | | |
 | 18 Apr | Finals TBD | | | |
 | --- | --- | --- | --- | --- |
-| 2020-21 | Season Record | 1w 1d 0l | r.s. 3/4 points | 2w 0d 1l |
+| 2020-21 | Season Record | 1w 1d 0l | r.s. 3/4 pts | 2w 0d 1l |
 
 
 ##### 2019-20 Metro B:
@@ -48,7 +48,7 @@ published: true
 | 14 Jun | Semifinals Russley at Templeton | Win    | 1 Up | 4-4, won playoff |
 | 28 Jun | Finals Bottle Lake at Waitikiri | Win | 3 & 2 | 4-4, lost playoff |
 | --- | --- | --- | --- | --- |
-| 2019-20 | Season Record | 8w 1d 1l | r.s. 13/16 points | 4w 2d 2l |
+| 2019-20 | Season Record | 8w 1d 1l | r.s. 13/16 pts | 4w 2d 2l |
 
 Team finish, Runners up. Top team individual record.
 
