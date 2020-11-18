@@ -48,7 +48,7 @@ published: true
 | 14 Jun | Semifinals Russley at Templeton | W    | 1 Up | 4-4, won playoff |
 | 28 Jun | Finals Bottle Lake at Waitikiri | W | 3 & 2 | 4-4, lost playoff |
 | --- | --- | --- | --- | --- |
-| 2019-20 | Season Record | 8-1-1 | r.s. 13/16 points | 4w 2d 2l |
+| 2019-20 | Season Record | 8w 1d 1l | r.s. 13/16 points | 4w 2d 2l |
 
 Team finish, Runners up. Top team individual record.
 
