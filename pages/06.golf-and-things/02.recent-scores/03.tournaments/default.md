@@ -13,6 +13,25 @@ published: true
 
 ### Interclub
 
+##### 2020-21 Metro B:
+[http://www.canterburygolf.co.nz/interclub/canterbury-mens/metro-b/](http://www.canterburygolf.co.nz/interclub/canterbury-mens/metro-b/)
+
+| Date   | Opponent     | Result | Score | Team |
+| ------ | ------------ | ------ | ----- | ----- |
+| 20 Sep | McLean's Island | DNP-P | - | 5-3 L |
+| 04 Oct | Avondale | W | 6 & 5 | 7-1 W |
+| 18 Oct | at Harewood | D | AS | 4.5-3.5 W |
+| 08 Nov | at Bottle Lake | | | PPD |
+| 29 Nov | Templeton | | | |
+| 24 Jan | at Coringa | | | |
+| 14 Feb | Russley | | | |
+| 14 Mar | Rawhiti | | | |
+| 11 Apr | Semis TBD | | | |
+| 18 Apr | Finals TBD | | | |
+| --- | --- | --- | --- | --- |
+| 2020-21 | Season Record | 1w 1d 0l | r.s. 3/4 points | 2w 0d 1l |
+
+
 ##### 2019-20 Metro B:
 [http://www.canterburygolf.co.nz/interclub/canterbury-mens/metro-b/](http://www.canterburygolf.co.nz/interclub/canterbury-mens/metro-b/)
 
@@ -33,20 +52,3 @@ published: true
 
 Team finish, Runners up. Top team individual record.
 
-##### 2019-20 Metro B:
-[http://www.canterburygolf.co.nz/interclub/canterbury-mens/metro-b/](http://www.canterburygolf.co.nz/interclub/canterbury-mens/metro-b/)
-
-| Date   | Opponent     | Result | Score | Team |
-| ------ | ------------ | ------ | ----- | ----- |
-| 20 Sep | McLean's Island | DNP-P | - | 5-3 L |
-| 04 Oct | Avondale | W | 6 & 5 | 7-1 W |
-| 18 Oct | at Harewood | D | AS | 4.5-3.5 W |
-| 08 Nov | at Bottle Lake | | | |
-| 29 Nov | Templeton | | | |
-| 24 Jan | at Coringa | | | |
-| 14 Feb | Russley | | | |
-| 14 Mar | Rawhiti | | | |
-| 11 Apr | Semis TBD | | | |
-| 18 Apr | Finals TBD | | | |
-| --- | --- | --- | --- | --- |
-| 2020-21 | Season Record | 1w 1d 0l | r.s. 3/4 points | 2w 0d 1l |

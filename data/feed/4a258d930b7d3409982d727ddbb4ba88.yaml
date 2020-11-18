@@ -1,29 +1,34 @@
-last_checked: 1603143431
+last_checked: 1605672175
 data:
+  -
+    title: 'Raising PHP Requirements... Again'
+    url: 'https://getgrav.org/blog/raising-php-requirements-2020'
+    date: 1605281160
+    nicetime: '5 days ago'
+  -
+    title: 'macOS 11.0 Big Sur Apache Setup: LetsEncrypt SSL'
+    url: 'https://getgrav.org/blog/macos-bigsur-apache-ssl'
+    date: 1605265380
+    nicetime: '5 days ago'
+  -
+    title: 'macOS 11.0 Big Sur Apache Setup: MySQL, Xdebug & More...'
+    url: 'https://getgrav.org/blog/macos-bigsur-apache-mysql-vhost-apc'
+    date: 1605265200
+    nicetime: '5 days ago'
+  -
+    title: 'macOS 11.0 Big Sur Apache Setup: Multiple PHP Versions'
+    url: 'https://getgrav.org/blog/macos-bigsur-apache-multiple-php-versions'
+    date: 1605261600
+    nicetime: '5 days ago'
   -
     title: 'Grav 1.7 RC.1 Released'
     url: 'https://getgrav.org/blog/grav-17-rc1-released'
     date: 1573060980
-    nicetime: '11 months ago'
+    nicetime: '1 years ago'
   -
-    title: 'macOS 10.15 Catalina Apache Setup: Upgrading Homebrew'
-    url: 'https://getgrav.org/blog/macos-catalina-apache-upgrade-homebrew'
+    title: 'macOS 11.0 Big Sur Apache Setup: Upgrading Homebrew'
+    url: 'https://getgrav.org/blog/macos-bigsur-apache-upgrade-homebrew'
     date: 1570536000
-    nicetime: '1 years ago'
-  -
-    title: 'macOS 10.15 Catalina Apache Setup: SSL'
-    url: 'https://getgrav.org/blog/macos-catalina-apache-ssl'
-    date: 1570532580
-    nicetime: '1 years ago'
-  -
-    title: 'macOS 10/15 Catalina Apache Setup: MySQL, Xdebug & More...'
-    url: 'https://getgrav.org/blog/macos-catalina-apache-mysql-vhost-apc'
-    date: 1570532400
-    nicetime: '1 years ago'
-  -
-    title: 'macOS 10.15 Catalina Apache Setup: Multiple PHP Versions'
-    url: 'https://getgrav.org/blog/macos-catalina-apache-multiple-php-versions'
-    date: 1570528800
     nicetime: '1 years ago'
   -
     title: 'Grav 1.6 Released!'
@@ -44,9 +49,4 @@ data:
     title: 'We''re Moving Chat from Slack to Discord'
     url: 'https://getgrav.org/blog/chat-moving-to-discord'
     date: 1542203100
-    nicetime: '2 years ago'
-  -
-    title: 'RocketTheme''s Halloween Sale is Going on Right Now'
-    url: 'https://getgrav.org/blog/rockettheme-halloween-2018'
-    date: 1540792800
     nicetime: '2 years ago'
