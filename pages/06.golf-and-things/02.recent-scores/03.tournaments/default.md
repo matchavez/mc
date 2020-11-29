@@ -29,7 +29,7 @@ published: true
 | 11 Apr | Semis TBD | | | |
 | 18 Apr | Finals TBD | | | |
 | --- | --- | --- | --- | --- |
-| 2020-21 | Season Record | 1w 1d 0l | r.s. 3/4 pts | 2w 0d 1l |
+| 2020-21 | Season Record | 1w 2d 0l | r.s. 3/4 pts | 2w 0d 2l |
 
 
 ##### 2019-20 Metro B:
