@@ -22,7 +22,7 @@ published: true
 | 04 Oct | Avondale | Win | 6 & 5 | 7-1 Win |
 | 18 Oct | at Harewood | Draw | AS | 4.5-3.5 Win |
 | 08 Nov | at Bottle Lake | | | PPD |
-| 29 Nov | Templeton | | | |
+| 29 Nov | Templeton | Draw | AS | 5-3 Loss |
 | 24 Jan | at Coringa | | | |
 | 14 Feb | Russley | | | |
 | 14 Mar | Rawhiti | | | |
