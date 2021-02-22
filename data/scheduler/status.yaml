@@ -3,10 +3,10 @@ default-site-backup:
   last-run: 1606107618
 cache-clear:
   state: success
-  last-run: 1613876408
+  last-run: 1613962808
 cache-purge:
   state: success
   last-run: 1613880008
 git-sync:
   state: success
-  last-run: 1613961007
+  last-run: 1613962808
